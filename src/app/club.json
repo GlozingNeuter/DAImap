@@ -1,0 +1,102 @@
+[
+    {
+        "City": null,
+        "Country": null,
+        "ID": null,
+        "Notes": "Secrétariat Gaston Lafargue Tabanac France DAICLIC 04",
+        "Source": "DAICLIC 02",
+        "Year": null,
+        "lat": "44.841225",
+        "lng": "-0.5800364"
+    },
+    {
+        "City": "1180 Bruxelles",
+        "Country": "Belgique",
+        "ID": null,
+        "Notes": "Batiment = École moyenne et supérieur d'informatique",
+        "Source": "DAICLIC 03 et 01",
+        "Year": "Aout 1985",
+        "lat": "50.8113254",
+        "lng": "4.3382402"
+    },
+    {
+        "City": null,
+        "Country": null,
+        "ID": null,
+        "Notes": "Pour plus d'information ...",
+        "Source": "DAICLIC 03",
+        "Year": null,
+        "lat": "48.8588897",
+        "lng": "2.320041"
+    },
+    {
+        "City": null,
+        "Country": null,
+        "ID": null,
+        "Notes": null,
+        "Source": null,
+        "Year": null,
+        "lat": "50.8465573",
+        "lng": "4.351697"
+    },
+    {
+        "City": "6000 Charleroi",
+        "Country": "Belgique",
+        "ID": null,
+        "Notes": "Batiment de l'ASBL Copernic, club fondé en 1983",
+        "Source": "DAICLIC 01",
+        "Year": null,
+        "lat": "50.4062694",
+        "lng": "4.442313"
+    },
+    {
+        "City": "4030 Liège",
+        "Country": "Belgique",
+        "ID": null,
+        "Notes": null,
+        "Source": "DAICLIC 01",
+        "Year": "Février 1985 -> Novembre 1985 ?",
+        "lat": "50.6327465",
+        "lng": "5.6028614"
+    },
+    {
+        "City": "4000 Liège",
+        "Country": "Belgique",
+        "ID": null,
+        "Notes": null,
+        "Source": "DAICLIC 04",
+        "Year": "Novembre 1985",
+        "lat": "50.640108",
+        "lng": "5.5708564"
+    },
+    {
+        "City": "5000 Namur",
+        "Country": "Belgique",
+        "ID": null,
+        "Notes": "Batiment prété par l'Institut Saint Aubin à Namur",
+        "Source": "DAICLIC 01",
+        "Year": "Février 1985 puis disparait",
+        "lat": "50.4631926",
+        "lng": "4.8441254"
+    },
+    {
+        "City": "75015 Paris",
+        "Country": "France",
+        "ID": null,
+        "Notes": null,
+        "Source": null,
+        "Year": null,
+        "lat": "48.8387071",
+        "lng": "2.3079455"
+    },
+    {
+        "City": null,
+        "Country": null,
+        "ID": null,
+        "Notes": null,
+        "Source": null,
+        "Year": null,
+        "lat": null,
+        "lng": null
+    }
+]

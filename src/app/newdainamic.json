@@ -1,0 +1,164 @@
+[
+    {
+        "Adresse_short": "Rue de la Banque  Longwy-Bas",
+        "City": null,
+        "Country": "FR",
+        "ID": 0,
+        "Pays": "France",
+        "lat": "45.30654",
+        "lng": "4.10899"
+    },
+    {
+        "Adresse_short": "Avenue Courteline  Paris",
+        "City": null,
+        "Country": "FR",
+        "ID": 1,
+        "Pays": "France",
+        "lat": "48.8440077",
+        "lng": "2.4143784"
+    },
+    {
+        "Adresse_short": "Rue d’Avron  Le Perreux",
+        "City": null,
+        "Country": "FR",
+        "ID": 2,
+        "Pays": "France",
+        "lat": "48.8476919",
+        "lng": "2.5010315"
+    },
+    {
+        "Adresse_short": "Rue des Anciens Combattants en A.F.N  Louviers",
+        "City": null,
+        "Country": "FR",
+        "ID": 3,
+        "Pays": "France",
+        "lat": "49.21667",
+        "lng": "1.16667"
+    },
+    {
+        "Adresse_short": "Boulevard Jean Jaures  Boulogne Billancourt",
+        "City": null,
+        "Country": "FR",
+        "ID": 4,
+        "Pays": "France",
+        "lat": "48.8432647",
+        "lng": "2.238081"
+    },
+    {
+        "Adresse_short": "Lot Claire Montagne Heches  Labarthe De Neste",
+        "City": null,
+        "Country": "FR",
+        "ID": 5,
+        "Pays": "France",
+        "lat": "43.07519",
+        "lng": "0.56651"
+    },
+    {
+        "Adresse_short": "Rue E.Charpentier  St-Étienne",
+        "City": null,
+        "Country": "FR",
+        "ID": 6,
+        "Pays": "France",
+        "lat": "45.43389",
+        "lng": "4.39"
+    },
+    {
+        "Adresse_short": "Rue du Temple  Les Brenets",
+        "City": null,
+        "Country": "CH",
+        "ID": 7,
+        "Pays": "Swisse",
+        "lat": "47.0676887",
+        "lng": "6.7052477"
+    },
+    {
+        "Adresse_short": "Impasse Ch. Baudelaire  Le Passage d’Agen",
+        "City": null,
+        "Country": "FR",
+        "ID": 8,
+        "Pays": "France",
+        "lat": "44.20143",
+        "lng": "0.60275"
+    },
+    {
+        "Adresse_short": "Rue Lamartine  Bartrouville",
+        "City": null,
+        "Country": "FR",
+        "ID": 9,
+        "Pays": "France",
+        "lat": "46.0",
+        "lng": "2.0"
+    },
+    {
+        "Adresse_short": "Rue Paul Rimbaud  Montpellier",
+        "City": null,
+        "Country": "FR",
+        "ID": 10,
+        "Pays": "France",
+        "lat": "43.6181392",
+        "lng": "3.8440419"
+    },
+    {
+        "Adresse_short": "Rue du Gal de Gaulle  Courcelles",
+        "City": null,
+        "Country": "BE",
+        "ID": 11,
+        "Pays": "Belgique",
+        "lat": "50.46379",
+        "lng": "4.3747"
+    },
+    {
+        "Adresse_short": "Garrion Bridge Wishaw",
+        "City": null,
+        "Country": "UK",
+        "ID": 12,
+        "Pays": "Scotland",
+        "lat": "55.7381073",
+        "lng": "-3.922469"
+    },
+    {
+        "Adresse_short": "Rue Robert Houdin  Caen",
+        "City": null,
+        "Country": "FR",
+        "ID": 13,
+        "Pays": "France",
+        "lat": "49.1815386",
+        "lng": "-0.3849122"
+    },
+    {
+        "Adresse_short": "Piazza Berdan  Savignano sul Rubicone",
+        "City": null,
+        "Country": "IT",
+        "ID": 14,
+        "Pays": "Italie",
+        "lat": "44.09009",
+        "lng": "12.39935"
+    },
+    {
+        "Adresse_short": "Rue de la Fontaine St-Gervais",
+        "City": null,
+        "Country": "FR",
+        "ID": 15,
+        "Pays": "France",
+        "lat": null,
+        "lng": null
+    },
+    {
+        "Adresse_short": "Aspergevald   Haacht",
+        "City": null,
+        "Country": "BE",
+        "ID": 16,
+        "Pays": "Belgique",
+        "lat": "50.97737",
+        "lng": "4.63777"
+    },
+    {
+        "Adresse_short": "Rue Michel Gachet",
+        "City": null,
+        "Country": null,
+        "ID": 17,
+        "Pays": "France",
+        "lat": "18.78378",
+        "lng": "100.77899"
+    }
+]

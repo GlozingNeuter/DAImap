@@ -1,0 +1,128 @@
+[
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 0,
+        "lat": "49.519578",
+        "lng": "5.765384"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 1,
+        "lat": "48.844426",
+        "lng": "2.410915"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 2,
+        "lat": "48.847275",
+        "lng": "2.501158"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 3,
+        "lat": "49.215801",
+        "lng": "1.173462"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 4,
+        "lat": "48.843882",
+        "lng": "2.237865"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 5,
+        "lat": "43.022522",
+        "lng": "0.370497"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 6,
+        "lat": "45.452469",
+        "lng": "4.381622"
+    },
+    {
+        "City": null,
+        "Country": "Swisse",
+        "ID": 7,
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 8,
+        "lat": "44.190397",
+        "lng": "0.593814"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 9,
+        "lat": "48.934637",
+        "lng": "2.162764"
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 10,
+        "lat": "43.617815",
+        "lng": "3.842874"
+    },
+    {
+        "City": null,
+        "Country": "Belgique",
+        "ID": 11,
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": null,
+        "Country": "Scotland",
+        "ID": 12,
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 13,
+        "lat": "49.181234",
+        "lng": "-0.384667"
+    },
+    {
+        "City": null,
+        "Country": "Italie",
+        "ID": 14,
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 15,
+        "lat": "49.230633",
+        "lng": "2.546985"
+    },
+    {
+        "City": null,
+        "Country": "Belgique",
+        "ID": 16,
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": null,
+        "Country": "France",
+        "ID": 17,
+        "lat": "43.284393",
+        "lng": "5.360449"
+    }
+]

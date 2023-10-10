@@ -1,0 +1,3908 @@
+[
+    {
+        "Autre": null,
+        "City": "9920 Lovendegem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1135888,
+        "lng": 3.6289642
+    },
+    {
+        "Autre": null,
+        "City": "1488 Bousval",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.647547,
+        "lng": 4.5289374
+    },
+    {
+        "Autre": null,
+        "City": "2510 Mortsel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1780856,
+        "lng": 4.4483586
+    },
+    {
+        "Autre": null,
+        "City": "3783 Tongeren (Diets-Heur)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7375731,
+        "lng": 5.4862076
+    },
+    {
+        "Autre": null,
+        "City": "3301 Bunsbeek",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.84172,
+        "lng": 4.94522
+    },
+    {
+        "Autre": null,
+        "City": "8970 Poperinge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8502804,
+        "lng": 2.7319518
+    },
+    {
+        "Autre": null,
+        "City": "2790 Kieldrecht",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2912891,
+        "lng": 4.1802923
+    },
+    {
+        "Autre": null,
+        "City": "2060 Merksem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2533986,
+        "lng": 4.4633174
+    },
+    {
+        "Autre": null,
+        "City": "8320 Brugge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.20892,
+        "lng": 3.22424
+    },
+    {
+        "Autre": null,
+        "City": "8470 De Panne",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0857193,
+        "lng": 2.6008303
+    },
+    {
+        "Autre": null,
+        "City": "1070 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8333,
+        "lng": 4.3
+    },
+    {
+        "Autre": null,
+        "City": "3221 Nieuwrode",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9492176,
+        "lng": 4.8327785
+    },
+    {
+        "Autre": null,
+        "City": "2070 Ekeren",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2,
+        "lng": 4.35
+    },
+    {
+        "Autre": null,
+        "City": "2338 Baarle-Hertos",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "2300 Turnhout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3289512,
+        "lng": 4.9546139
+    },
+    {
+        "Autre": null,
+        "City": "9370 Lebbeke",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9982098,
+        "lng": 4.1305235
+    },
+    {
+        "Autre": null,
+        "City": "1500 Halle",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7280552,
+        "lng": 4.2555512
+    },
+    {
+        "Autre": null,
+        "City": "9050 Evergek",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "3220 Aarschdt",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "5452 Deulin (Hotton)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.3039876,
+        "lng": 5.4011662
+    },
+    {
+        "Autre": null,
+        "City": "1400 Nivelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6,
+        "lng": 4.2833
+    },
+    {
+        "Autre": null,
+        "City": "2400 Mol",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1972029,
+        "lng": 5.2176145
+    },
+    {
+        "Autre": null,
+        "City": "2008 Antwerpen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.21989,
+        "lng": 4.40346
+    },
+    {
+        "Autre": null,
+        "City": "2410 Herentals",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1636008,
+        "lng": 4.8295576
+    },
+    {
+        "Autre": null,
+        "City": "1500 Halle",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.741,
+        "lng": 4.2325
+    },
+    {
+        "Autre": null,
+        "City": "1330 Rixensart",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7186652,
+        "lng": 4.5334059
+    },
+    {
+        "Autre": null,
+        "City": "2000 Antwerpen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2167,
+        "lng": 4.4167
+    },
+    {
+        "Autre": null,
+        "City": "3030 Heverlee",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8627998,
+        "lng": 4.6769219
+    },
+    {
+        "Autre": null,
+        "City": "3700 Tongeren",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7780902,
+        "lng": 5.4645249
+    },
+    {
+        "Autre": null,
+        "City": "2700 St. Niklaas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1665432,
+        "lng": 4.1397137
+    },
+    {
+        "Autre": null,
+        "City": "9370 Lebbeke",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0194831,
+        "lng": 4.1527892
+    },
+    {
+        "Autre": null,
+        "City": "3910 Herk de Stad",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.225,
+        "lng": 5.45
+    },
+    {
+        "Autre": null,
+        "City": "1970 Wezenbeek-Oppem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.93912,
+        "lng": 4.30518
+    },
+    {
+        "Autre": null,
+        "City": "1370 Saintes",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7122915,
+        "lng": 4.1747612
+    },
+    {
+        "Autre": null,
+        "City": "2600 Berchem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2,
+        "lng": 4.4333
+    },
+    {
+        "Autre": null,
+        "City": "8880 Tielt",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8667,
+        "lng": 3.1667
+    },
+    {
+        "Autre": null,
+        "City": "9900 Eekld",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "5004 Bouge (Namur)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4667,
+        "lng": 4.9
+    },
+    {
+        "Autre": null,
+        "City": "1310 La Hulpe",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7309163,
+        "lng": 4.4726184
+    },
+    {
+        "Autre": null,
+        "City": "3060 Bertem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.85,
+        "lng": 4.65
+    },
+    {
+        "Autre": null,
+        "City": "9100 Lokeren",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1145135,
+        "lng": 3.9932426
+    },
+    {
+        "Autre": null,
+        "City": "2710 Hoboken",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1689209,
+        "lng": 4.3566388
+    },
+    {
+        "Autre": null,
+        "City": "4090 Post 12-FBA",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "7020 Mons (Ryon)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4541,
+        "lng": 3.9523
+    },
+    {
+        "Autre": null,
+        "City": "2100 Deurne",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2167,
+        "lng": 4.4167
+    },
+    {
+        "Autre": null,
+        "City": "8900 Ieper",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8564381,
+        "lng": 2.8811972
+    },
+    {
+        "Autre": null,
+        "City": "8000 Brugge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2043936,
+        "lng": 3.2240175
+    },
+    {
+        "Autre": null,
+        "City": "8710 Heule",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8638847,
+        "lng": 3.2155441
+    },
+    {
+        "Autre": null,
+        "City": "2621 Schelle",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1221732,
+        "lng": 4.3145705
+    },
+    {
+        "Autre": null,
+        "City": "8030 Beernem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1317898,
+        "lng": 3.3310893
+    },
+    {
+        "Autre": null,
+        "City": "3600 Genk",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.002,
+        "lng": 5.6836
+    },
+    {
+        "Autre": null,
+        "City": "3071 Erps-Kwerps",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.902941,
+        "lng": 4.5567124
+    },
+    {
+        "Autre": null,
+        "City": "2690 Tense",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "9810 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0569943,
+        "lng": 3.6491143
+    },
+    {
+        "Autre": null,
+        "City": "3200 Kessel-Lo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8950792,
+        "lng": 4.7293364
+    },
+    {
+        "Autre": null,
+        "City": "2170 Gooreind",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3656578,
+        "lng": 4.5570517
+    },
+    {
+        "Autre": null,
+        "City": "9931 Zomergem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.15,
+        "lng": 3.5167
+    },
+    {
+        "Autre": null,
+        "City": "3470 Denderleeuw",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8940452,
+        "lng": 4.062382
+    },
+    {
+        "Autre": null,
+        "City": "2710 Hoboken",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1757829,
+        "lng": 4.3600448
+    },
+    {
+        "Autre": null,
+        "City": "1790 Hekelgem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9179861,
+        "lng": 4.103409
+    },
+    {
+        "Autre": null,
+        "City": "9160 Hamme",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0937821,
+        "lng": 4.1310943
+    },
+    {
+        "Autre": null,
+        "City": "2788 Vrasene",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2181585,
+        "lng": 4.2076874
+    },
+    {
+        "Autre": null,
+        "City": "8000 Brugge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2098,
+        "lng": 3.225
+    },
+    {
+        "Autre": null,
+        "City": "9470 Denderleeum",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "9470 Denderleeum",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "8658 Dadizele",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8485982,
+        "lng": 3.1036506
+    },
+    {
+        "Autre": null,
+        "City": "4000 Liège",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6196614,
+        "lng": 5.5783085
+    },
+    {
+        "Autre": null,
+        "City": "1190 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8229713,
+        "lng": 4.3321831
+    },
+    {
+        "Autre": null,
+        "City": "3150 Dooischot",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "N Arles 372A Box 323",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 47.23852,
+        "lng": 7.73047
+    },
+    {
+        "Autre": null,
+        "City": "2410 Herentals",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.17655,
+        "lng": 4.83248
+    },
+    {
+        "Autre": null,
+        "City": "9900 Eeklo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.181398,
+        "lng": 3.5635494
+    },
+    {
+        "Autre": null,
+        "City": "3300 Tienen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7667,
+        "lng": 4.95
+    },
+    {
+        "Autre": null,
+        "City": "9810 Gent/Drongen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.05067,
+        "lng": 3.65649
+    },
+    {
+        "Autre": null,
+        "City": "6345 Villers-Gambom",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "1180 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7906717,
+        "lng": 4.3364081
+    },
+    {
+        "Autre": null,
+        "City": "8810 Roeselare",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0333,
+        "lng": 3.15
+    },
+    {
+        "Autre": null,
+        "City": "8230 Oudenburg",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1834711,
+        "lng": 3.0011543
+    },
+    {
+        "Autre": null,
+        "City": "1851 Grimbergen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9698336,
+        "lng": 4.3839754
+    },
+    {
+        "Autre": null,
+        "City": "8810 Roeselare",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9258779,
+        "lng": 3.1322388
+    },
+    {
+        "Autre": null,
+        "City": "2770 Nieuwkerken - Waas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.19358,
+        "lng": 4.17776
+    },
+    {
+        "Autre": null,
+        "City": "9000 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0300801,
+        "lng": 3.7077882
+    },
+    {
+        "Autre": null,
+        "City": "1050 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "Autre": null,
+        "City": "3500 Hasselt",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9,
+        "lng": 5.3
+    },
+    {
+        "Autre": null,
+        "City": "2700 St-Niklaas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1244493,
+        "lng": 4.216672
+    },
+    {
+        "Autre": null,
+        "City": "1348 Louvain La Neuve",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6623651,
+        "lng": 4.6179627
+    },
+    {
+        "Autre": null,
+        "City": "9050 Evergem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1114382,
+        "lng": 3.7102513
+    },
+    {
+        "Autre": null,
+        "City": "8240 Gistel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1578844,
+        "lng": 2.9678159
+    },
+    {
+        "Autre": null,
+        "City": "9050 Evergem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0935132,
+        "lng": 3.6562308
+    },
+    {
+        "Autre": null,
+        "City": "1310 La Hulpe",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7333,
+        "lng": 4.4833
+    },
+    {
+        "Autre": null,
+        "City": "3000 Leuven",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8821757,
+        "lng": 4.7031301
+    },
+    {
+        "Autre": null,
+        "City": "3900 Lommel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2266261,
+        "lng": 5.2643205
+    },
+    {
+        "Autre": null,
+        "City": "1150 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8384253,
+        "lng": 4.4323953
+    },
+    {
+        "Autre": null,
+        "City": "9160 Hamme Durme",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1,
+        "lng": 4.18333
+    },
+    {
+        "Autre": null,
+        "City": "3180 Westerlo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0911348,
+        "lng": 4.8871467
+    },
+    {
+        "Autre": null,
+        "City": "3540 Zolder",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0357798,
+        "lng": 5.3374979
+    },
+    {
+        "Autre": null,
+        "City": "9030 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0946858,
+        "lng": 3.7140962
+    },
+    {
+        "Autre": null,
+        "City": "2710 Hoboken",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.17611,
+        "lng": 4.34844
+    },
+    {
+        "Autre": null,
+        "City": "6808 Izel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 49.69371,
+        "lng": 5.37382
+    },
+    {
+        "Autre": null,
+        "City": "1170 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8,
+        "lng": 4.4
+    },
+    {
+        "Autre": null,
+        "City": "3400 Landen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7589017,
+        "lng": 5.0765676
+    },
+    {
+        "Autre": null,
+        "City": "7000 Mons",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4683712,
+        "lng": 3.9759001
+    },
+    {
+        "Autre": null,
+        "City": "8800 Roeselaere",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "2300 Turnhout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3208719,
+        "lng": 4.9227787
+    },
+    {
+        "Autre": null,
+        "City": "7360 Boussu",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4357549,
+        "lng": 3.797205
+    },
+    {
+        "Autre": null,
+        "City": "8800 Roeselare",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9482041,
+        "lng": 3.1354771
+    },
+    {
+        "Autre": null,
+        "City": "1512 Dworp",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.72983,
+        "lng": 4.30106
+    },
+    {
+        "Autre": null,
+        "City": "6040 Jumet",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4167,
+        "lng": 4.4333
+    },
+    {
+        "Autre": null,
+        "City": "8400 Oostende",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2083,
+        "lng": 2.9167
+    },
+    {
+        "Autre": null,
+        "City": "9969 Oosteeklo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1899305,
+        "lng": 3.686019
+    },
+    {
+        "Autre": null,
+        "City": "2410 Herentals",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1747418,
+        "lng": 4.8494335
+    },
+    {
+        "Autre": null,
+        "City": "9308 Hofstade-Aalst",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.93604,
+        "lng": 4.0355
+    },
+    {
+        "Autre": null,
+        "City": "2180 Kalmthout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3890422,
+        "lng": 4.4714801
+    },
+    {
+        "Autre": null,
+        "City": "3530 Houthalen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0267002,
+        "lng": 5.3749742
+    },
+    {
+        "Autre": null,
+        "City": "1000 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "Autre": null,
+        "City": "8042 Oostkamp (Hertsberge)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1041863,
+        "lng": 3.2885947
+    },
+    {
+        "Autre": null,
+        "City": "9660 Brakel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8245103,
+        "lng": 3.777468
+    },
+    {
+        "Autre": null,
+        "City": "1070 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8276833,
+        "lng": 4.2951403
+    },
+    {
+        "Autre": null,
+        "City": "1512 Beersel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7304533,
+        "lng": 4.2981565
+    },
+    {
+        "Autre": null,
+        "City": "8770 Ingelmunster",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9223538,
+        "lng": 3.2406613
+    },
+    {
+        "Autre": null,
+        "City": "1940 St. Stevens Woluwe",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.86838,
+        "lng": 4.45195
+    },
+    {
+        "Autre": null,
+        "City": "2350 Vosselaar",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3000138,
+        "lng": 4.8790102
+    },
+    {
+        "Autre": null,
+        "City": "9800 Deinze",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9802494,
+        "lng": 3.5376985
+    },
+    {
+        "Autre": null,
+        "City": "2840 Haacht",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9744128,
+        "lng": 4.6569656
+    },
+    {
+        "Autre": null,
+        "City": "1320 Genval",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7195594,
+        "lng": 4.501468
+    },
+    {
+        "Autre": null,
+        "City": "3071 Kortenberg",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8833,
+        "lng": 4.5333
+    },
+    {
+        "Autre": null,
+        "City": "1090 Jette",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8667,
+        "lng": 4.3333
+    },
+    {
+        "Autre": null,
+        "City": "2128 Brecht",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2982777,
+        "lng": 4.5765014
+    },
+    {
+        "Autre": null,
+        "City": "1420 Braine L'Alleud",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6827127,
+        "lng": 4.3879277
+    },
+    {
+        "Autre": null,
+        "City": "1880 Merchtem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9412,
+        "lng": 4.386
+    },
+    {
+        "Autre": null,
+        "City": "3811 Nieuwerkerke",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "8752 Bayikhove",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "8830 Hoogelde",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "5158 Dave",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4148969,
+        "lng": 4.8893358
+    },
+    {
+        "Autre": null,
+        "City": "3583 Overpelt",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2110242,
+        "lng": 5.4191382
+    },
+    {
+        "Autre": null,
+        "City": "8610 Wevelgem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8122183,
+        "lng": 3.181727
+    },
+    {
+        "Autre": null,
+        "City": "8800 Roeselaere",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "9000 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.05,
+        "lng": 3.7167
+    },
+    {
+        "Autre": null,
+        "City": "3091 Kampenhout-Berg",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9240093,
+        "lng": 4.5323501
+    },
+    {
+        "Autre": null,
+        "City": "9830 St. Martens Latem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.001838,
+        "lng": 3.6315068
+    },
+    {
+        "Autre": null,
+        "City": "9000 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.05,
+        "lng": 3.7167
+    },
+    {
+        "Autre": null,
+        "City": "1180 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7935086,
+        "lng": 4.352508
+    },
+    {
+        "Autre": null,
+        "City": "8800 Roeselaere",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "8790 Waregen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "1000 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "Autre": null,
+        "City": "8510 Marke",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8029856,
+        "lng": 3.2280077
+    },
+    {
+        "Autre": null,
+        "City": "9110 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.05,
+        "lng": 3.71667
+    },
+    {
+        "Autre": null,
+        "City": "2130 Brasschaat",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2758939,
+        "lng": 4.4664068
+    },
+    {
+        "Autre": null,
+        "City": "8000 Brugge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2098,
+        "lng": 3.225
+    },
+    {
+        "Autre": null,
+        "City": "9300 Aalst",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9333,
+        "lng": 4.0333
+    },
+    {
+        "Autre": null,
+        "City": "8960 Poperinge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8103252,
+        "lng": 2.7787965
+    },
+    {
+        "Autre": null,
+        "City": "2050 Antwerpen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2277788,
+        "lng": 4.3858905
+    },
+    {
+        "Autre": null,
+        "City": "1070 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8333,
+        "lng": 4.3
+    },
+    {
+        "Autre": null,
+        "City": "3210 St-Joris-Winge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8833,
+        "lng": 4.8333
+    },
+    {
+        "Autre": null,
+        "City": "3680 Maaseik",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0963151,
+        "lng": 5.787163
+    },
+    {
+        "Autre": null,
+        "City": "1090 Jette",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8904497,
+        "lng": 4.3284334
+    },
+    {
+        "Autre": null,
+        "City": "3000 Leuven",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8636136,
+        "lng": 4.736326
+    },
+    {
+        "Autre": null,
+        "City": "2980 Boorheerbeek",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "1080 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8626726,
+        "lng": 4.3063006
+    },
+    {
+        "Autre": null,
+        "City": "8970 Poperinge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.85,
+        "lng": 2.7167
+    },
+    {
+        "Autre": null,
+        "City": "2648 Steendorp",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1314899,
+        "lng": 4.2730172
+    },
+    {
+        "Autre": null,
+        "City": "9120 Destelbergen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0548733,
+        "lng": 3.7692732
+    },
+    {
+        "Autre": null,
+        "City": "8450 Nieuwpoort",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.14548,
+        "lng": 2.7114253
+    },
+    {
+        "Autre": null,
+        "City": "1170 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8,
+        "lng": 4.4
+    },
+    {
+        "Autre": null,
+        "City": "1080 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8566427,
+        "lng": 4.316993
+    },
+    {
+        "Autre": null,
+        "City": "2232 's Gravenwezel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.26267,
+        "lng": 4.56113
+    },
+    {
+        "Autre": null,
+        "City": "1860 Meise",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9323731,
+        "lng": 4.3222086
+    },
+    {
+        "Autre": null,
+        "City": "7540 Tournai",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6282764,
+        "lng": 3.3905869
+    },
+    {
+        "Autre": null,
+        "City": "8240 Sistel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "2400 Mol",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2222018,
+        "lng": 5.1147739
+    },
+    {
+        "Autre": null,
+        "City": "2600 Berchem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1985067,
+        "lng": 4.4236516
+    },
+    {
+        "Autre": null,
+        "City": "9030 Wondelgem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0836512,
+        "lng": 3.7164294
+    },
+    {
+        "Autre": null,
+        "City": "2140 Malle",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2167,
+        "lng": 4.4167
+    },
+    {
+        "Autre": null,
+        "City": "9000 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0734898,
+        "lng": 3.7129758
+    },
+    {
+        "Autre": null,
+        "City": "1040 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8435365,
+        "lng": 4.390243
+    },
+    {
+        "Autre": null,
+        "City": "1000 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8536528,
+        "lng": 4.3635548
+    },
+    {
+        "Autre": null,
+        "City": "1030 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "Autre": null,
+        "City": "2241 Halle-Antwerpen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2378735,
+        "lng": 4.639367
+    },
+    {
+        "Autre": null,
+        "City": "4800 Verviers",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6167,
+        "lng": 5.8333
+    },
+    {
+        "Autre": null,
+        "City": "2370 Arendonk",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3261022,
+        "lng": 5.0849174
+    },
+    {
+        "Autre": null,
+        "City": "1338 Maransart",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.6575162,
+        "lng": 4.4713786
+    },
+    {
+        "Autre": null,
+        "City": "4368 Oreye",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7305375,
+        "lng": 5.3453613
+    },
+    {
+        "Autre": null,
+        "City": "8500 Kortrijk",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8239472,
+        "lng": 3.2681121
+    },
+    {
+        "Autre": null,
+        "City": "3180 Westerlo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0928919,
+        "lng": 4.9166945
+    },
+    {
+        "Autre": null,
+        "City": "2800 Mechelen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0211704,
+        "lng": 4.4898638
+    },
+    {
+        "Autre": null,
+        "City": "8370 Blankenberge",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3100166,
+        "lng": 3.1354028
+    },
+    {
+        "Autre": null,
+        "City": "3202 Linden",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.89406,
+        "lng": 4.7503923
+    },
+    {
+        "Autre": null,
+        "City": "5300 Ciney",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.4667,
+        "lng": 5.0333
+    },
+    {
+        "Autre": null,
+        "City": "8900 Ieper",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8572402,
+        "lng": 2.8858542
+    },
+    {
+        "Autre": null,
+        "City": "1090 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8667,
+        "lng": 4.3333
+    },
+    {
+        "Autre": null,
+        "City": "7450 Nimy",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.47668,
+        "lng": 3.95516
+    },
+    {
+        "Autre": null,
+        "City": "1180 Bruxelles",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7992676,
+        "lng": 4.3388118
+    },
+    {
+        "Autre": null,
+        "City": "1180 Brussel",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8,
+        "lng": 4.3167
+    },
+    {
+        "Autre": null,
+        "City": "2520 Edegem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1602001,
+        "lng": 4.4497259
+    },
+    {
+        "Autre": null,
+        "City": "8020 Oostkamp",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.15,
+        "lng": 3.2333
+    },
+    {
+        "Autre": null,
+        "City": "2300 Turnhout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3221497,
+        "lng": 4.9234057
+    },
+    {
+        "Autre": null,
+        "City": "3071 Kortenberg",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9048904,
+        "lng": 4.5597392
+    },
+    {
+        "Autre": null,
+        "City": "8401 Bredene",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2398981,
+        "lng": 2.9510649
+    },
+    {
+        "Autre": null,
+        "City": "9000 Gent",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0365108,
+        "lng": 3.723286
+    },
+    {
+        "Autre": null,
+        "City": "1743 Dilbeek",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.84799,
+        "lng": 4.25972
+    },
+    {
+        "Autre": null,
+        "City": "2700 Sint-Niklaas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2093249,
+        "lng": 4.2544492
+    },
+    {
+        "Autre": null,
+        "City": "9330 Dendermonde",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0288576,
+        "lng": 4.0950652
+    },
+    {
+        "Autre": null,
+        "City": "3000 Leuven",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8796,
+        "lng": 4.7009
+    },
+    {
+        "Autre": null,
+        "City": "2300 Turnhout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.3288997,
+        "lng": 4.9595299
+    },
+    {
+        "Autre": null,
+        "City": "7500 Tournai",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.5921362,
+        "lng": 3.3872837
+    },
+    {
+        "Autre": null,
+        "City": "8042 Oostkamp (Hertsberge)",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.15432,
+        "lng": 3.23128
+    },
+    {
+        "Autre": null,
+        "City": "2700 St-Niklaas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1720707,
+        "lng": 4.1552185
+    },
+    {
+        "Autre": null,
+        "City": "2700 St-Niklaas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1264609,
+        "lng": 4.2262502
+    },
+    {
+        "Autre": null,
+        "City": "3180 Westerlo",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.09049,
+        "lng": 4.91544
+    },
+    {
+        "Autre": null,
+        "City": "9380 Weize-Lebbexe",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "2410 Herentals",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.17655,
+        "lng": 4.83248
+    },
+    {
+        "Autre": null,
+        "City": "9700 Izegem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9057021,
+        "lng": 3.1963994
+    },
+    {
+        "Autre": null,
+        "City": "3990 Meerhout",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.128999,
+        "lng": 5.0919221
+    },
+    {
+        "Autre": null,
+        "City": "2688 St Amands",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.05645,
+        "lng": 4.20957
+    },
+    {
+        "Autre": null,
+        "City": "3100 Heist Op Den Berg",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0525033,
+        "lng": 4.7063694
+    },
+    {
+        "Autre": null,
+        "City": "1790 Affligem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9125065,
+        "lng": 4.1040296
+    },
+    {
+        "Autre": null,
+        "City": "9290 Berlare",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0197348,
+        "lng": 3.9953798
+    },
+    {
+        "Autre": null,
+        "City": "9330 Dendermonde",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0211671,
+        "lng": 4.0457492
+    },
+    {
+        "Autre": null,
+        "City": "2621 Schelle",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1248696,
+        "lng": 4.3583302
+    },
+    {
+        "Autre": null,
+        "City": "2100 Antwerpen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.2167,
+        "lng": 4.4167
+    },
+    {
+        "Autre": null,
+        "City": "2230 Schilde",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0333,
+        "lng": 4.8167
+    },
+    {
+        "Autre": null,
+        "City": "8800 Roeselaere",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "8250 Eernegem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.1318941,
+        "lng": 3.0355283
+    },
+    {
+        "Autre": null,
+        "City": "8810 Rumbeke",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.9218457,
+        "lng": 3.1617354
+    },
+    {
+        "Autre": null,
+        "City": "8810 Roeselaere",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "3370 Boutersem",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.836551300000004,
+        "lng": 4.8581689
+    },
+    {
+        "Autre": null,
+        "City": "2750 Beyeren-Waas",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "Autre": null,
+        "City": "9700 Oudenaarde",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.8333,
+        "lng": 3.6667
+    },
+    {
+        "Autre": null,
+        "City": "8591 Moen",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.7940328,
+        "lng": 3.3649325
+    },
+    {
+        "Autre": null,
+        "City": "3660 Opglabbeek",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 51.0406661,
+        "lng": 5.5750423
+    },
+    {
+        "Autre": null,
+        "City": "7400 Soignies",
+        "Country": "BE",
+        "ID": null,
+        "Pays": "Belgique",
+        "lat": 50.57904,
+        "lng": 4.07129
+    },
+    {
+        "Autre": null,
+        "City": "8417 PK Breda",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.58656,
+        "lng": 4.77596
+    },
+    {
+        "Autre": null,
+        "City": "2313 ZJ Leiden",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.1512649,
+        "lng": 4.4868334
+    },
+    {
+        "Autre": null,
+        "City": "5655 AH Eindkoven",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "3000 BV Rottendam",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2547 CJ 'S Gravenhage",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0623071,
+        "lng": 4.2716344
+    },
+    {
+        "Autre": null,
+        "City": "1531 TE Wormer",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.4982612,
+        "lng": 4.8041374
+    },
+    {
+        "Autre": null,
+        "City": "CH 'S-Gravenhage",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "4152 GB Rhenoy",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.8908643,
+        "lng": 5.1457605
+    },
+    {
+        "Autre": null,
+        "City": "1058 GP AMSTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.37403,
+        "lng": 4.88969
+    },
+    {
+        "Autre": null,
+        "City": "2582 TJ DEN HAAG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0905108,
+        "lng": 4.2763381
+    },
+    {
+        "Autre": null,
+        "City": "2904 BC CAPELLE A/D YSSEL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.92917,
+        "lng": 4.57778
+    },
+    {
+        "Autre": null,
+        "City": "3052 PR ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.950823,
+        "lng": 4.4718493
+    },
+    {
+        "Autre": null,
+        "City": "1511 XX OOSTZAAN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.437142,
+        "lng": 4.8792042
+    },
+    {
+        "Autre": null,
+        "City": "4333 DB MIDDELBURG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.5,
+        "lng": 3.61389
+    },
+    {
+        "Autre": null,
+        "City": "6243 BE GEULLE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 50.92167,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2317 KR LEIDEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.15833,
+        "lng": 4.49306
+    },
+    {
+        "Autre": null,
+        "City": "5912 JR VENLO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.37,
+        "lng": 6.16806
+    },
+    {
+        "Autre": null,
+        "City": "1703 EG HEERHUGOWAARD",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.6600537,
+        "lng": 4.8242699
+    },
+    {
+        "Autre": null,
+        "City": "9743 TK GRONINGEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 53.21917,
+        "lng": 6.56667
+    },
+    {
+        "Autre": null,
+        "City": "3315 CJ DORDECHT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52,
+        "lng": -56
+    },
+    {
+        "Autre": null,
+        "City": "3691 LX BREUKELEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.17417,
+        "lng": 5.00139
+    },
+    {
+        "Autre": null,
+        "City": "1509 HH ZAANDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.43854,
+        "lng": 4.82643
+    },
+    {
+        "Autre": null,
+        "City": "6531 TR NIJMEGEM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "6247 GRONSVELD",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 50.8108,
+        "lng": 5.7306
+    },
+    {
+        "Autre": null,
+        "City": "3571 WB UTRECHT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.09083,
+        "lng": 5.12222
+    },
+    {
+        "Autre": null,
+        "City": "5801 JE VENRAY",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.525,
+        "lng": 5.975
+    },
+    {
+        "Autre": null,
+        "City": "2641 RW PIJNACKER",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.01954,
+        "lng": 4.42946
+    },
+    {
+        "Autre": null,
+        "City": "1474 PB OOSTHUIZEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.5725567,
+        "lng": 4.999568
+    },
+    {
+        "Autre": null,
+        "City": "6860 AE OOSTERBEEK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9898961,
+        "lng": 4.3753701
+    },
+    {
+        "Autre": null,
+        "City": "2402 RN ALPHEN A/D RIJN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.12917,
+        "lng": 4.65546
+    },
+    {
+        "Autre": null,
+        "City": "2871 JW SCHOONHOVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9501499,
+        "lng": 4.8407903
+    },
+    {
+        "Autre": null,
+        "City": "AMSTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.37403,
+        "lng": 4.88969
+    },
+    {
+        "Autre": null,
+        "City": "2242 PZ WASSENAAR",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.1614114,
+        "lng": 4.3880633
+    },
+    {
+        "Autre": null,
+        "City": "6151 GH MUNSTERGELEEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 50.975,
+        "lng": 5.86389
+    },
+    {
+        "Autre": null,
+        "City": "1132 JX VOLENDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.5021436,
+        "lng": 5.0575387
+    },
+    {
+        "Autre": null,
+        "City": "1422 SX VITHOORN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "3233 BX OOSTVOORNE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9125,
+        "lng": 4.09861
+    },
+    {
+        "Autre": null,
+        "City": "7608 GB ALMELO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.38422,
+        "lng": 6.68213
+    },
+    {
+        "Autre": null,
+        "City": "3335 AA ZWIJNDRECHT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.8188187,
+        "lng": 4.6172822
+    },
+    {
+        "Autre": null,
+        "City": "7572 AB OLDENZAAL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.31333,
+        "lng": 6.92917
+    },
+    {
+        "Autre": null,
+        "City": "3222 BL HELLEVOETSLUIS",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.83333,
+        "lng": 4.13333
+    },
+    {
+        "Autre": null,
+        "City": "9641 AM VEEKDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52,
+        "lng": -56
+    },
+    {
+        "Autre": null,
+        "City": "3853 BA ERMELO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.2975502,
+        "lng": 5.6097166
+    },
+    {
+        "Autre": null,
+        "City": "3563 EV ULTRECHT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "6164 BS GELEEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 50.9525297,
+        "lng": 5.8241995
+    },
+    {
+        "Autre": null,
+        "City": "5709 CA HELMOND",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.4754642,
+        "lng": 5.7074322
+    },
+    {
+        "Autre": null,
+        "City": "9301 NR RODEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 53.1375,
+        "lng": 6.42083
+    },
+    {
+        "Autre": null,
+        "City": "4702 XH ROOSEDAAL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "1541 MH KOOG A/D ZAAK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "5654 RD EINDHOVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.4253648,
+        "lng": 5.45799
+    },
+    {
+        "Autre": null,
+        "City": "8265 CP KAMPEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.5530229,
+        "lng": 5.904877
+    },
+    {
+        "Autre": null,
+        "City": "4411 BH RILLAND",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.4158909,
+        "lng": 4.1855873
+    },
+    {
+        "Autre": null,
+        "City": "2131 RL HOOFDDORP",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.3025,
+        "lng": 4.68889
+    },
+    {
+        "Autre": null,
+        "City": "1702 BN HEERHUGOWAARD",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.669496,
+        "lng": 4.8321711
+    },
+    {
+        "Autre": null,
+        "City": "7607 RE ALMELO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.35205,
+        "lng": 6.68526
+    },
+    {
+        "Autre": null,
+        "City": "2665 EN BLEISWIJK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.01083,
+        "lng": 4.53194
+    },
+    {
+        "Autre": null,
+        "City": "8265 EL KAMPEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.55381,
+        "lng": 5.89911
+    },
+    {
+        "Autre": null,
+        "City": "3069 LG ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9688257,
+        "lng": 4.5466255
+    },
+    {
+        "Autre": null,
+        "City": "3601 JH LEKKERKERK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.89833,
+        "lng": 4.68194
+    },
+    {
+        "Autre": null,
+        "City": "2264 LD LEIDSCHEMDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2331 ED LEIDEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.15833,
+        "lng": 4.49306
+    },
+    {
+        "Autre": null,
+        "City": "4254 EH SLEEUWIJK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.81583,
+        "lng": 4.95278
+    },
+    {
+        "Autre": null,
+        "City": "6301 DV VALKENBURG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.18,
+        "lng": 4.43194
+    },
+    {
+        "Autre": null,
+        "City": "6534 XP NIJMEGEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.8425,
+        "lng": 5.85278
+    },
+    {
+        "Autre": null,
+        "City": "5707 ZK HELMOND",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.48167,
+        "lng": 5.66111
+    },
+    {
+        "Autre": null,
+        "City": "2517 AZ 'S GRAVENHAGE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "2722 TZ ZOETERMEER",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0575,
+        "lng": 4.49306
+    },
+    {
+        "Autre": null,
+        "City": "3051 LD ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9225,
+        "lng": 4.47917
+    },
+    {
+        "Autre": null,
+        "City": "2622 DD DELFT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.00667,
+        "lng": 4.35556
+    },
+    {
+        "Autre": null,
+        "City": "2182 RZ HILLEGOM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.29083,
+        "lng": 4.58333
+    },
+    {
+        "Autre": null,
+        "City": "1825 EE ELKMAAR",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2313 HM LEIDEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.15833,
+        "lng": 4.49306
+    },
+    {
+        "Autre": null,
+        "City": "9248 KX SIEGERSWOUDE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 53.09974,
+        "lng": 6.2447
+    },
+    {
+        "Autre": null,
+        "City": "3281 CP MUMANSDORP",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "6835 BP ARNHEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "7604 KV ALMELO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.35667,
+        "lng": 6.6625
+    },
+    {
+        "Autre": null,
+        "City": "2525 JR DEN HAAG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "3218 VL HEENVLIET",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.86583,
+        "lng": 4.24306
+    },
+    {
+        "Autre": null,
+        "City": "1093 AW AMSTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.37403,
+        "lng": 4.88969
+    },
+    {
+        "Autre": null,
+        "City": "9055 MA BRITSUM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 53.25428,
+        "lng": 5.78576
+    },
+    {
+        "Autre": null,
+        "City": "1092 HC AMSTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.37403,
+        "lng": 4.88969
+    },
+    {
+        "Autre": null,
+        "City": "3021 EA ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9225,
+        "lng": 4.47917
+    },
+    {
+        "Autre": null,
+        "City": "6116 CJ ROOSTEREN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.08333,
+        "lng": 5.81806
+    },
+    {
+        "Autre": null,
+        "City": "BAVEL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.56583,
+        "lng": 4.83056
+    },
+    {
+        "Autre": null,
+        "City": "2582 TP DEN HAAG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "1501 VK ZAAKDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "9247 CD VRETERP",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2561 RZ 'S GRAVENHAGE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "3202 EB SPIJKENISSE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.845,
+        "lng": 4.32917
+    },
+    {
+        "Autre": null,
+        "City": "5612 HD EINDOVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "6921 BE DUIVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9467,
+        "lng": 6.0139
+    },
+    {
+        "Autre": null,
+        "City": "8632 WP TIRNS",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 53.05834,
+        "lng": 5.62637
+    },
+    {
+        "Autre": null,
+        "City": "7471 ZA GOOR",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.23333,
+        "lng": 6.58611
+    },
+    {
+        "Autre": null,
+        "City": "HOEK VAN HOLLAND",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9775,
+        "lng": 4.13333
+    },
+    {
+        "Autre": null,
+        "City": "4827 LC BREDA",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.58656,
+        "lng": 4.77596
+    },
+    {
+        "Autre": null,
+        "City": "1058 TL AMSTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.37403,
+        "lng": 4.88969
+    },
+    {
+        "Autre": null,
+        "City": "2731 GR BENTHUIZEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0775,
+        "lng": 4.54444
+    },
+    {
+        "Autre": null,
+        "City": "2597 KG S'GRAVENHAGE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "4706 LE ROSENDAAL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52,
+        "lng": -56
+    },
+    {
+        "Autre": null,
+        "City": "7241 PA LOCHEM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.15917,
+        "lng": 6.41111
+    },
+    {
+        "Autre": null,
+        "City": "6114 KE SUSTEREN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.065,
+        "lng": 5.85556
+    },
+    {
+        "Autre": null,
+        "City": "8603 DB SWEEK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "2121 BB BENNEBROEK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.32083,
+        "lng": 4.59861
+    },
+    {
+        "Autre": null,
+        "City": "2555 ZH DEN HAAG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0781703,
+        "lng": 4.3239829
+    },
+    {
+        "Autre": null,
+        "City": "3068 AC ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9225,
+        "lng": 4.47917
+    },
+    {
+        "Autre": null,
+        "City": "5951 AE BELFELD",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.3125,
+        "lng": 6.11528
+    },
+    {
+        "Autre": null,
+        "City": "2925 AR KRIMPEN A/O YSSEL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "3051 XV ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9225,
+        "lng": 4.47917
+    },
+    {
+        "Autre": null,
+        "City": "3607 BD MAARSENBROEK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "3512 LT ULTRECHT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "5672 SH NUEMEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "5628 DB EINDHOVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.44083,
+        "lng": 5.47778
+    },
+    {
+        "Autre": null,
+        "City": "4651 JN STEENBERGEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.58417,
+        "lng": 4.31944
+    },
+    {
+        "Autre": null,
+        "City": "3116 JS SCHEIDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "6881 KZ VELP",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.995,
+        "lng": 5.97361
+    },
+    {
+        "Autre": null,
+        "City": "2665 RM BLEISWIJK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.01083,
+        "lng": 4.53194
+    },
+    {
+        "Autre": null,
+        "City": "5135 SELFKANT SCHELBRUCH",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "1981 AJ VELSEN ZUID",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.46,
+        "lng": 4.65
+    },
+    {
+        "Autre": null,
+        "City": "6163 ER GELEEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 50.97417,
+        "lng": 5.82917
+    },
+    {
+        "Autre": null,
+        "City": "3211 IK GEERVLIET",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.86167,
+        "lng": 4.26111
+    },
+    {
+        "Autre": null,
+        "City": "4511 BW BRESKENS",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.39583,
+        "lng": 3.55556
+    },
+    {
+        "Autre": null,
+        "City": "5611 JW EINDHOVEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.42716,
+        "lng": 5.48995
+    },
+    {
+        "Autre": null,
+        "City": "2716 HM ZOETERMEER",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.0575,
+        "lng": 4.49306
+    },
+    {
+        "Autre": null,
+        "City": "2341 HC OEGSTGEEST",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.18,
+        "lng": 4.46944
+    },
+    {
+        "Autre": null,
+        "City": "4871 AB ETTEM-LEUR",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.81833,
+        "lng": 5.69306
+    },
+    {
+        "Autre": null,
+        "City": "1697 KV SCHELLINKHOUT",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.635,
+        "lng": 5.12083
+    },
+    {
+        "Autre": null,
+        "City": "2914 AA NIEUWERKERK/IJSSEL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.58177,
+        "lng": 5.85073
+    },
+    {
+        "Autre": null,
+        "City": "1871 TA SCHOORL",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.70167,
+        "lng": 4.69722
+    },
+    {
+        "Autre": null,
+        "City": "3062 JJ ROTTERDAM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.9225,
+        "lng": 4.47917
+    },
+    {
+        "Autre": null,
+        "City": "2987 EL RIDDERKERK",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.8725,
+        "lng": 4.60278
+    },
+    {
+        "Autre": null,
+        "City": "3231 BK BRIELLE",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.90167,
+        "lng": 4.1625
+    },
+    {
+        "Autre": null,
+        "City": "7608 XZ ALMELO",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.35667,
+        "lng": 6.6625
+    },
+    {
+        "Autre": null,
+        "City": "2592 GK DEN HAAG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.07667,
+        "lng": 4.29861
+    },
+    {
+        "Autre": null,
+        "City": "7415 CG DEVENTER",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.255,
+        "lng": 6.16389
+    },
+    {
+        "Autre": null,
+        "City": "5011 KJ DEVENTER",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.255,
+        "lng": 6.16389
+    },
+    {
+        "Autre": null,
+        "City": "5011 KJ TILBURG",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 51.5869418,
+        "lng": 5.0841344
+    },
+    {
+        "Autre": null,
+        "City": "2082 AC CANTPOORT SUID",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.25,
+        "lng": 5.75
+    },
+    {
+        "Autre": null,
+        "City": "1749 CV WARMENHUIZEN",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.7077064,
+        "lng": 4.7189254
+    },
+    {
+        "Autre": null,
+        "City": "2034 ED HAARLEM",
+        "Country": "NL",
+        "ID": null,
+        "Pays": "Nederland",
+        "lat": 52.3567358,
+        "lng": 4.647071
+    },
+    {
+        "Autre": null,
+        "City": "D-7100 HEILBRONN",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. Germany",
+        "lat": 49.13995,
+        "lng": 9.22054
+    },
+    {
+        "Autre": null,
+        "City": "D-6781 HOHEINOD",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 49.2941089,
+        "lng": 7.6097682
+    },
+    {
+        "Autre": null,
+        "City": "8660 MUENCHBERG",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 50.1948551,
+        "lng": 11.7909397
+    },
+    {
+        "Autre": null,
+        "City": "B-4320 HATTINGEN",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 51.39894,
+        "lng": 7.18557
+    },
+    {
+        "Autre": null,
+        "City": "D-72218 TROSSINGEN",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "DEUTSCHLAND",
+        "lat": 48.6238,
+        "lng": 8.7609
+    },
+    {
+        "Autre": null,
+        "City": "D-2057 REINBEK",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 53.51703,
+        "lng": 10.2488
+    },
+    {
+        "Autre": null,
+        "City": "5620 VELBERT 15",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 51.33537,
+        "lng": 7.04348
+    },
+    {
+        "Autre": null,
+        "City": "1000 BERLIN 20",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "DEUTSCHLAND",
+        "lat": 52.548752,
+        "lng": 13.2479056
+    },
+    {
+        "Autre": null,
+        "City": "D-4770 SOEST",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 51.57558,
+        "lng": 8.10619
+    },
+    {
+        "Autre": null,
+        "City": "4040 NEUSS 21",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 39.113445,
+        "lng": -75.516217
+    },
+    {
+        "Autre": null,
+        "City": "3135 SELFKANT-SCHALBRUCH",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 51.0498054,
+        "lng": 5.905139
+    },
+    {
+        "Autre": null,
+        "City": "D-3000 HANNOVER 1",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 52.4057736,
+        "lng": 9.7803809
+    },
+    {
+        "Autre": null,
+        "City": "8500 NURNBERG",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 49.45421,
+        "lng": 11.07752
+    },
+    {
+        "Autre": null,
+        "City": "5270 GUMMERSBACH 21",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "BUNDESREP. DEUTSCHLAND",
+        "lat": 51.02608,
+        "lng": 7.56473
+    },
+    {
+        "Autre": null,
+        "City": "B 7015 KORNTAL |",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 48.8273062,
+        "lng": 9.1150695
+    },
+    {
+        "Autre": null,
+        "City": "4090 BSD",
+        "Country": null,
+        "ID": null,
+        "Pays": "SPB 7",
+        "lat": 18.78378,
+        "lng": 100.77899
+    },
+    {
+        "Autre": null,
+        "City": "7800 FREIBURG",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 47.9771143,
+        "lng": 7.8163451
+    },
+    {
+        "Autre": null,
+        "City": "D-4630 BOCHUM J",
+        "Country": "DE",
+        "ID": null,
+        "Pays": "W. GERMANY",
+        "lat": 51.5,
+        "lng": 10.5
+    },
+    {
+        "Autre": null,
+        "City": "GEDLING NOTTN",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "N64 4GE ENGLAND",
+        "lat": 52.9803108,
+        "lng": -1.0927237
+    },
+    {
+        "Autre": null,
+        "City": "LONOON NC2A 1AN",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 54.75844,
+        "lng": -2.69531
+    },
+    {
+        "Autre": null,
+        "City": "92400 COURBEVOIE",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.8890893,
+        "lng": 2.2530899
+    },
+    {
+        "Autre": null,
+        "City": "92100 BOULOGNE",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.8333,
+        "lng": 2.25
+    },
+    {
+        "Autre": null,
+        "City": "20127 MILANO",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALY",
+        "lat": 45.5077,
+        "lng": 9.2479
+    },
+    {
+        "Autre": null,
+        "City": "94110 ARCUEIL",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.7995642,
+        "lng": 2.3394404
+    },
+    {
+        "Autre": null,
+        "City": "DEREHAN NORWICH",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 52.62783,
+        "lng": 1.29834
+    },
+    {
+        "Autre": null,
+        "City": "WINTERBOURNE AVON",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 55.78333,
+        "lng": -4.03333
+    },
+    {
+        "Autre": null,
+        "City": "62015 MONTE SAN GIUSTO (MC)",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 43.2598,
+        "lng": 13.5934
+    },
+    {
+        "Autre": null,
+        "City": "CARLISLE CUMBRIA",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 54.892855,
+        "lng": -2.9258711
+    },
+    {
+        "Autre": null,
+        "City": "4132 MUTTENZ",
+        "Country": "CH",
+        "ID": null,
+        "Pays": "SWISSE",
+        "lat": 47.5273201,
+        "lng": 7.6414896
+    },
+    {
+        "Autre": null,
+        "City": "GARRIOMBRIDGE - WISHAW",
+        "Country": null,
+        "ID": null,
+        "Pays": "SCOTLAND ML2 OOR",
+        "lat": 18.78378,
+        "lng": 100.77899
+    },
+    {
+        "Autre": null,
+        "City": "73290 LA MOTTE SERVOLEX",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 45.5874874,
+        "lng": 5.8680953
+    },
+    {
+        "Autre": "C/O ENEL CTN SERV AUT",
+        "City": "00198 ROMA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALY",
+        "lat": 41.8947,
+        "lng": 12.4839
+    },
+    {
+        "Autre": null,
+        "City": "BRISTOL BS 78LY",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 54.75844,
+        "lng": -2.69531
+    },
+    {
+        "Autre": null,
+        "City": "40133 BOLOGNA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 44.4938,
+        "lng": 11.3387
+    },
+    {
+        "Autre": null,
+        "City": "BADALONA",
+        "Country": "ES",
+        "ID": null,
+        "Pays": "SPAIN",
+        "lat": 41.45004,
+        "lng": 2.24741
+    },
+    {
+        "Autre": null,
+        "City": "41000 ZAGREB",
+        "Country": "HR",
+        "ID": null,
+        "Pays": "YUGOSLAVIA",
+        "lat": 45.81444,
+        "lng": 15.97798
+    },
+    {
+        "Autre": null,
+        "City": "CH-8132 EGG/ZH",
+        "Country": "CH",
+        "ID": null,
+        "Pays": "SWISS",
+        "lat": 47.294703,
+        "lng": 8.6968826
+    },
+    {
+        "Autre": null,
+        "City": "36100 VICENZA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 45.6405797,
+        "lng": 11.5541532
+    },
+    {
+        "Autre": null,
+        "City": "14100 LISIEUX",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 49.1296,
+        "lng": 0.2549
+    },
+    {
+        "Autre": null,
+        "City": "CH. -891 AFFOLTERN",
+        "Country": "CH",
+        "ID": null,
+        "Pays": "SCHEWEIZ",
+        "lat": 47.271614,
+        "lng": 8.4482342
+    },
+    {
+        "Autre": null,
+        "City": "86000 POITIERS",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 46.7824726,
+        "lng": 0.187635
+    },
+    {
+        "Autre": null,
+        "City": "50142 FIRENZE",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 43.7812387,
+        "lng": 11.2125665
+    },
+    {
+        "Autre": null,
+        "City": "69600 DULLINS",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 46,
+        "lng": 2
+    },
+    {
+        "Autre": null,
+        "City": "72450 MONTFORT-LE-ROTROU",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.05,
+        "lng": 0.4167
+    },
+    {
+        "Autre": null,
+        "City": "CO DUBLIN",
+        "Country": "IE",
+        "ID": null,
+        "Pays": "IRELAND",
+        "lat": 53.3874785,
+        "lng": -6.0710998
+    },
+    {
+        "Autre": null,
+        "City": "2416 LES BRENETS",
+        "Country": "CH",
+        "ID": null,
+        "Pays": "SUISSE",
+        "lat": 47.068921,
+        "lng": 6.706913
+    },
+    {
+        "Autre": null,
+        "City": "5700 SAINT-AVOLD",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 49.1027,
+        "lng": 6.70064
+    },
+    {
+        "Autre": null,
+        "City": "16131 GENOVA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 44.4063,
+        "lng": 8.9339
+    },
+    {
+        "Autre": null,
+        "City": "36100 VICENZA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 45.6644,
+        "lng": 11.3319
+    },
+    {
+        "Autre": null,
+        "City": "08025 BARCELONA",
+        "Country": "ES",
+        "ID": null,
+        "Pays": "SPAIN",
+        "lat": 41.3888,
+        "lng": 2.159
+    },
+    {
+        "Autre": null,
+        "City": "TERASSA BARCELONA",
+        "Country": "ES",
+        "ID": null,
+        "Pays": "SPAIN",
+        "lat": 41.66667,
+        "lng": 2
+    },
+    {
+        "Autre": null,
+        "City": "22500 PAIMPOL",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.7374,
+        "lng": -3.0286
+    },
+    {
+        "Autre": null,
+        "City": "60100 ANCONA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 43.6165532,
+        "lng": 13.5226692
+    },
+    {
+        "Autre": null,
+        "City": "55100 LUCCA",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 43.8548,
+        "lng": 10.4866
+    },
+    {
+        "Autre": null,
+        "City": "34144 TRIESTE",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 45.6433,
+        "lng": 13.7903
+    },
+    {
+        "Autre": null,
+        "City": "47039 SAVIGNANO S.R.",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 37.08805,
+        "lng": 15.27924
+    },
+    {
+        "Autre": null,
+        "City": "8066 PATTI (ME)",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 38.14736,
+        "lng": 14.96409
+    },
+    {
+        "Autre": null,
+        "City": "78250 HARDRICOURT",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 49.0049579,
+        "lng": 1.9011585
+    },
+    {
+        "Autre": null,
+        "City": "47037 RIMINI (FO)",
+        "Country": "IT",
+        "ID": null,
+        "Pays": "ITALIA",
+        "lat": 42.83333,
+        "lng": 12.83333
+    },
+    {
+        "Autre": null,
+        "City": "59560 CONINES",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 46,
+        "lng": 2
+    },
+    {
+        "Autre": null,
+        "City": "94100 SAINT-MAUR",
+        "Country": "FR",
+        "ID": null,
+        "Pays": "FRANCE",
+        "lat": 48.792179,
+        "lng": 2.4866827
+    },
+    {
+        "Autre": null,
+        "City": "MANRESA (BAGES) BARCELONA",
+        "Country": "ES",
+        "ID": null,
+        "Pays": "SPAIN",
+        "lat": 41.72498,
+        "lng": 1.82656
+    },
+    {
+        "Autre": null,
+        "City": "LONDON WC2A 1AW",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 51.517052,
+        "lng": -0.111748
+    },
+    {
+        "Autre": null,
+        "City": "LEICESTERSHIRE",
+        "Country": "UK",
+        "ID": null,
+        "Pays": "ENGLAND",
+        "lat": 52.66667,
+        "lng": -1
+    }
+]

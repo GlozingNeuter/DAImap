@@ -1,0 +1,2126 @@
+[
+    {
+        "City": "4100 SERAING",
+        "Club": null,
+        "Country": "BE",
+        "ID": 0,
+        "Pays": "BELGIQUE",
+        "lat": 50.6,
+        "lng": 5.4833
+    },
+    {
+        "City": "29200 BREST",
+        "Club": null,
+        "Country": "FR",
+        "ID": 1,
+        "Pays": "FRANCE",
+        "lat": 48.4038933,
+        "lng": -4.4709481
+    },
+    {
+        "City": "74015 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 2,
+        "Pays": "FRANCE",
+        "lat": 48.8433811,
+        "lng": 2.2998165
+    },
+    {
+        "City": "92290 CHATENAY MALABRY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 3,
+        "Pays": "FRANCE",
+        "lat": 48.7650107,
+        "lng": 2.2642175
+    },
+    {
+        "City": "7860 LESSINES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 4,
+        "Pays": "BELGIQUE",
+        "lat": 50.7167,
+        "lng": 3.8333
+    },
+    {
+        "City": "59790 RONCHIN",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 5,
+        "Pays": "FRANCE",
+        "lat": 50.6007876,
+        "lng": 3.0893806
+    },
+    {
+        "City": "66240 SAINT ESTEVE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 6,
+        "Pays": "FRANCE",
+        "lat": 42.7108788,
+        "lng": 2.8349026
+    },
+    {
+        "City": "95130 FRANCONVILLE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 7,
+        "Pays": "FRANCE",
+        "lat": 48.9911837,
+        "lng": 2.2296991
+    },
+    {
+        "City": "4601 VAUY SOUS CHEVREMONT",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 8,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "30340 SERVAS/SALINDRES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 9,
+        "Pays": "FRANCE",
+        "lat": 44.17174,
+        "lng": 4.1602
+    },
+    {
+        "City": "78170 LA CELLE SAINT CLOUD",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 10,
+        "Pays": "FRANCE",
+        "lat": 48.8452702,
+        "lng": 2.1313747
+    },
+    {
+        "City": "13006 MARSEILLE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 11,
+        "Pays": "FRANCE",
+        "lat": 43.2886234,
+        "lng": 5.3884081
+    },
+    {
+        "City": "92700 COLOMBES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 12,
+        "Pays": "FRANCE",
+        "lat": 48.9188,
+        "lng": 2.254
+    },
+    {
+        "City": "1090 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 13,
+        "Pays": "BELGIQUE",
+        "lat": 50.880918,
+        "lng": 4.3160156
+    },
+    {
+        "City": "1408 BOUSVAL",
+        "Club": null,
+        "Country": "BE",
+        "ID": 14,
+        "Pays": "BELGIQUE",
+        "lat": 50.647547,
+        "lng": 4.5289374
+    },
+    {
+        "City": "7140 BINCH",
+        "Club": null,
+        "Country": "BE",
+        "ID": 15,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "7501 ORCQ",
+        "Club": null,
+        "Country": "BE",
+        "ID": 16,
+        "Pays": "BELGIQUE",
+        "lat": 50.6005506,
+        "lng": 3.3496704
+    },
+    {
+        "City": "94400 VITRY SUR SEINE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 17,
+        "Pays": "FRANCE",
+        "lat": 48.7843106,
+        "lng": 2.3781163
+    },
+    {
+        "City": "75731 PARIS CEDEX 15",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 18,
+        "Pays": "FRANCE",
+        "lat": 48.8412,
+        "lng": 2.3003
+    },
+    {
+        "City": "6620 NEUFCHATEAU",
+        "Club": null,
+        "Country": "BE",
+        "ID": 19,
+        "Pays": "BELGIQUE",
+        "lat": 49.84074,
+        "lng": 5.43535
+    },
+    {
+        "City": "44300 NANTES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 20,
+        "Pays": "FRANCE",
+        "lat": 47.2173,
+        "lng": -1.5534
+    },
+    {
+        "City": "38590 ST ETIENNE DE ST GEOIRS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 21,
+        "Pays": "FRANCE",
+        "lat": 45.32211,
+        "lng": 5.35529
+    },
+    {
+        "City": "94500 CHAMPIGNY SUR MARNE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 22,
+        "Pays": "FRANCE",
+        "lat": 48.8226769,
+        "lng": 2.5098556
+    },
+    {
+        "City": "51100 REINS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 23,
+        "Pays": "FRANCE",
+        "lat": 46.05046,
+        "lng": 4.10992
+    },
+    {
+        "City": "091500 AMERIEN EN BUGEY",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 24,
+        "Pays": "FRANCE",
+        "lat": 45.8,
+        "lng": 5.5
+    },
+    {
+        "City": "92500 BUEIL MALMAISON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 25,
+        "Pays": "FRANCE",
+        "lat": 4.98333,
+        "lng": -52.45
+    },
+    {
+        "City": "28205 CHATEAUDUR",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 26,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "94320 THIAIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 27,
+        "Pays": "FRANCE",
+        "lat": 48.7666808,
+        "lng": 2.38616
+    },
+    {
+        "City": "78150 LE CHESNAY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 28,
+        "Pays": "FRANCE",
+        "lat": 48.8289029,
+        "lng": 2.1292256
+    },
+    {
+        "City": "38140 LA MURETTE",
+        "Club": null,
+        "Country": "FR",
+        "ID": 29,
+        "Pays": "FRANCE",
+        "lat": 45.3992,
+        "lng": 5.4963
+    },
+    {
+        "City": "94140 ALFORTVILLE",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 30,
+        "Pays": "FRANCE",
+        "lat": 48.8120378,
+        "lng": 2.4151901
+    },
+    {
+        "City": "94170 LE PERREUX",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 31,
+        "Pays": "FRANCE",
+        "lat": 48.84775,
+        "lng": 2.5010253
+    },
+    {
+        "City": "1190 FOREST",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 32,
+        "Pays": "BELGIQUE",
+        "lat": 50.8208694,
+        "lng": 4.3214285
+    },
+    {
+        "City": "1060 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 33,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "75012 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 34,
+        "Pays": "FRANCE",
+        "lat": 48.8368929,
+        "lng": 2.4155809
+    },
+    {
+        "City": "95470 FOSSES",
+        "Club": null,
+        "Country": "FR",
+        "ID": 35,
+        "Pays": "FRANCE",
+        "lat": 49.091,
+        "lng": 2.5712
+    },
+    {
+        "City": "1500 HALLE",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 36,
+        "Pays": "BELGIQUE",
+        "lat": 50.7327255,
+        "lng": 4.2399503
+    },
+    {
+        "City": "92190 MEUDON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 37,
+        "Pays": "FRANCE",
+        "lat": 48.8138,
+        "lng": 2.235
+    },
+    {
+        "City": "59780 BAISIEUX",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 38,
+        "Pays": "FRANCE",
+        "lat": 50.6090088,
+        "lng": 3.2469176
+    },
+    {
+        "City": "45800 SAINT JEAN DE BRAYE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 39,
+        "Pays": "FRANCE",
+        "lat": 47.9,
+        "lng": 1.992
+    },
+    {
+        "City": "75017 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 40,
+        "Pays": "FRANCE",
+        "lat": 48.8835,
+        "lng": 2.3219
+    },
+    {
+        "City": "04860 PIERREVERT",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 41,
+        "Pays": "FRANCE",
+        "lat": 43.8163,
+        "lng": 5.7464
+    },
+    {
+        "City": "75012 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 42,
+        "Pays": "FRANCE",
+        "lat": 48.8415588,
+        "lng": 2.3868356
+    },
+    {
+        "City": "6300 NICE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 43,
+        "Pays": "FRANCE",
+        "lat": 43.70313,
+        "lng": 7.26608
+    },
+    {
+        "City": "93360 NEUILLY PLAISANCE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 44,
+        "Pays": "FRANCE",
+        "lat": 48.8634,
+        "lng": 2.506
+    },
+    {
+        "City": "95300 PONTOISE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 45,
+        "Pays": "FRANCE",
+        "lat": 49.071019,
+        "lng": 2.1035173
+    },
+    {
+        "City": "1203 GENEVES",
+        "Club": "BX",
+        "Country": "CH",
+        "ID": 46,
+        "Pays": "SUISSE",
+        "lat": 47.00016,
+        "lng": 8.01427
+    },
+    {
+        "City": "91310 LEUVILLE SUR ORGE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 47,
+        "Pays": "FRANCE",
+        "lat": 48.6129122,
+        "lng": 2.2629915
+    },
+    {
+        "City": "17300 ROCHEFORT",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 48,
+        "Pays": "FRANCE",
+        "lat": 45.9506348,
+        "lng": -0.965939
+    },
+    {
+        "City": "62118 BIACHE SAINT VAST",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 49,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "92100 BOULOGNE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 50,
+        "Pays": "FRANCE",
+        "lat": 48.8333,
+        "lng": 2.25
+    },
+    {
+        "City": "65250 LABARTHE DE NEITE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 51,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "57250 METZ",
+        "Club": null,
+        "Country": "FR",
+        "ID": 52,
+        "Pays": "FRANCE",
+        "lat": 49.1093586,
+        "lng": 6.1756546
+    },
+    {
+        "City": "17300 ROCHEFORT SUR MER",
+        "Club": null,
+        "Country": "FR",
+        "ID": 53,
+        "Pays": "FRANCE",
+        "lat": 45.9333,
+        "lng": -0.9833
+    },
+    {
+        "City": "13127 VITROLLES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 54,
+        "Pays": "FRANCE",
+        "lat": 43.4260055,
+        "lng": 5.2842777
+    },
+    {
+        "City": "4888 WAIMES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 55,
+        "Pays": "BELGIQUE",
+        "lat": 50.41488,
+        "lng": 6.11207
+    },
+    {
+        "City": "4610 BEYNE-MEUSAY",
+        "Club": "LDCL",
+        "Country": "BE",
+        "ID": 56,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "30200 BAGNOLS / CEZE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 57,
+        "Pays": "FRANCE",
+        "lat": 44.10851,
+        "lng": 4.70306
+    },
+    {
+        "City": "7900 LEUZE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 58,
+        "Pays": "BELGIQUE",
+        "lat": 50.6054096,
+        "lng": 3.6165223
+    },
+    {
+        "City": "6160 ROUX",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 59,
+        "Pays": "BELGIQUE",
+        "lat": 50.44111,
+        "lng": 4.3917
+    },
+    {
+        "City": "1040 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 60,
+        "Pays": "BELGIQUE",
+        "lat": 50.8358,
+        "lng": 4.388
+    },
+    {
+        "City": "73470 NOVOLAISE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 61,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "2650 CREZANCY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 62,
+        "Pays": "FRANCE",
+        "lat": 49.0485173,
+        "lng": 3.5099726
+    },
+    {
+        "City": "42000 SAINT-ETIENNE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 63,
+        "Pays": "FRANCE",
+        "lat": 45.4333,
+        "lng": 4.4
+    },
+    {
+        "City": "4601 CHAUDFONTAINE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 64,
+        "Pays": "BELGIQUE",
+        "lat": 50.7333,
+        "lng": 5.7
+    },
+    {
+        "City": "1600 SINT PIETER LEEUW",
+        "Club": null,
+        "Country": "BE",
+        "ID": 65,
+        "Pays": "BELGIQUE",
+        "lat": 51.12965,
+        "lng": 3.15184
+    },
+    {
+        "City": "4601 CHAUDFONTAINE",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 66,
+        "Pays": "BELGIQUE",
+        "lat": 50.7333,
+        "lng": 5.7
+    },
+    {
+        "City": "33600 PESSAC",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 67,
+        "Pays": "FRANCE",
+        "lat": 44.8101,
+        "lng": -0.6413
+    },
+    {
+        "City": "33600 PESSAC",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 68,
+        "Pays": "FRANCE",
+        "lat": 44.8101,
+        "lng": -0.6413
+    },
+    {
+        "City": "33000 BOPRDEAUX",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 69,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "4500 LIEGE",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 70,
+        "Pays": "BELGIQUE",
+        "lat": 50.5167,
+        "lng": 5.2333
+    },
+    {
+        "City": "92260 FONTENAY AUX ROSES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 71,
+        "Pays": "FRANCE",
+        "lat": 48.7933,
+        "lng": 2.2927
+    },
+    {
+        "City": "69100 VILLEURBANNE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 72,
+        "Pays": "FRANCE",
+        "lat": 45.7736038,
+        "lng": 4.8931574
+    },
+    {
+        "City": "7760 DOTTIGNIES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 73,
+        "Pays": "BELGIQUE",
+        "lat": 50.7188633,
+        "lng": 3.2788925
+    },
+    {
+        "City": "4880 SPA",
+        "Club": null,
+        "Country": "BE",
+        "ID": 74,
+        "Pays": "BELGIQUE",
+        "lat": 50.4877937,
+        "lng": 5.8819199
+    },
+    {
+        "City": "1300 WAVRE",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 75,
+        "Pays": "BELGIQUE",
+        "lat": 50.7258805,
+        "lng": 4.61361
+    },
+    {
+        "City": "33470 GUJAN-MESTRAS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 76,
+        "Pays": "FRANCE",
+        "lat": 44.6334498,
+        "lng": -1.0678441
+    },
+    {
+        "City": "78340 LES CLAYES SOUS BOIS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 77,
+        "Pays": "FRANCE",
+        "lat": 48.8161646,
+        "lng": 1.9975008
+    },
+    {
+        "City": "84120 PERTUIS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 78,
+        "Pays": "FRANCE",
+        "lat": 43.6990134,
+        "lng": 5.5035715
+    },
+    {
+        "City": "03100 MONTLUCON",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 79,
+        "Pays": "FRANCE",
+        "lat": 46.3437294,
+        "lng": 2.5732364
+    },
+    {
+        "City": "59194 RACHES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 80,
+        "Pays": "FRANCE",
+        "lat": 50.4156084,
+        "lng": 3.1365497
+    },
+    {
+        "City": "4090 ESSENTHO BPS 37",
+        "Club": null,
+        "Country": null,
+        "ID": 81,
+        "Pays": "F.B.A",
+        "lat": 18.78378,
+        "lng": 100.77899
+    },
+    {
+        "City": "1400 NIVELLES",
+        "Club": "IDC",
+        "Country": "BE",
+        "ID": 82,
+        "Pays": "BELGIQUE",
+        "lat": 50.591159,
+        "lng": 4.3332126
+    },
+    {
+        "City": "7540 KAIN",
+        "Club": null,
+        "Country": "BE",
+        "ID": 83,
+        "Pays": "BELGIQUE",
+        "lat": 50.6393937,
+        "lng": 3.3813757
+    },
+    {
+        "City": "1030 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 84,
+        "Pays": "BELGIQUE",
+        "lat": 50.8637033,
+        "lng": 4.3747076
+    },
+    {
+        "City": "94110 ARCEUIL",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 85,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "75018 PARIS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 86,
+        "Pays": "FRANCE",
+        "lat": 48.8865533,
+        "lng": 2.3537987
+    },
+    {
+        "City": "75015 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 87,
+        "Pays": "FRANCE",
+        "lat": 48.8369476,
+        "lng": 2.2983871
+    },
+    {
+        "City": "57500 SAINT AVOLD",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 88,
+        "Pays": "FRANCE",
+        "lat": 49.1027,
+        "lng": 6.7006
+    },
+    {
+        "City": "5101 ERPENT",
+        "Club": null,
+        "Country": "BE",
+        "ID": 89,
+        "Pays": "BELGIQUE",
+        "lat": 50.4429814,
+        "lng": 4.9007228
+    },
+    {
+        "City": "68000 MULHOUSE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 90,
+        "Pays": "FRANCE",
+        "lat": 47.7361713,
+        "lng": 7.3352577
+    },
+    {
+        "City": "75005 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 91,
+        "Pays": "FRANCE",
+        "lat": 48.8461141,
+        "lng": 2.3401648
+    },
+    {
+        "City": "59890 DEULEMONT-QUESHOT/DEULE",
+        "Club": "DAIC",
+        "Country": "FR",
+        "ID": 92,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "57150 CREUTZWALD",
+        "Club": null,
+        "Country": "FR",
+        "ID": 93,
+        "Pays": "FRANCE",
+        "lat": 49.2034576,
+        "lng": 6.7149549
+    },
+    {
+        "City": "1390 SAINT ANDRE DE CORCY",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 94,
+        "Pays": "FRANCE",
+        "lat": 45.9259,
+        "lng": 4.95166
+    },
+    {
+        "City": "95600 EAUBONNE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 95,
+        "Pays": "FRANCE",
+        "lat": 48.9826707,
+        "lng": 2.2780999
+    },
+    {
+        "City": "7360 BOUSSU",
+        "Club": null,
+        "Country": "BE",
+        "ID": 96,
+        "Pays": "BELGIQUE",
+        "lat": 50.417841,
+        "lng": 3.7943113
+    },
+    {
+        "City": "92340 BOURG LA REINE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 97,
+        "Pays": "FRANCE",
+        "lat": 48.7737679,
+        "lng": 2.3151917
+    },
+    {
+        "City": "1020 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 98,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "4624 ROMSEE",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 99,
+        "Pays": "BELGIQUE",
+        "lat": 50.6090067,
+        "lng": 5.6674087
+    },
+    {
+        "City": "1150 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 100,
+        "Pays": "BELGIQUE",
+        "lat": 50.8384253,
+        "lng": 4.4323953
+    },
+    {
+        "City": "92170 VANVES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 101,
+        "Pays": "FRANCE",
+        "lat": 48.8195921,
+        "lng": 2.2933095
+    },
+    {
+        "City": "1432 BELMONT/YVERDON",
+        "Club": "DCA",
+        "Country": "CH",
+        "ID": 102,
+        "Pays": "SUISSE",
+        "lat": 46.77852,
+        "lng": 6.64115
+    },
+    {
+        "City": "92330 SCAUX",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 103,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "92190 MEUDON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 104,
+        "Pays": "FRANCE",
+        "lat": 48.8043772,
+        "lng": 2.2367283
+    },
+    {
+        "City": "42300 ROANNE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 105,
+        "Pays": "FRANCE",
+        "lat": 46.0381275,
+        "lng": 4.0761551
+    },
+    {
+        "City": "1140 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 106,
+        "Pays": "BELGIQUE",
+        "lat": 50.8763423,
+        "lng": 4.3957787
+    },
+    {
+        "City": "7500 TOURNAI",
+        "Club": null,
+        "Country": "BE",
+        "ID": 107,
+        "Pays": "BELGIQUE",
+        "lat": 50.5833,
+        "lng": 3.3667
+    },
+    {
+        "City": "4620 BEYNE HEUSAY",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 108,
+        "Pays": "BELGIQUE",
+        "lat": 50.6289226,
+        "lng": 5.6592584
+    },
+    {
+        "City": "94350 VILLERS SUR MARNE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 109,
+        "Pays": "FRANCE",
+        "lat": 48.91667,
+        "lng": 4.16667
+    },
+    {
+        "City": "35005 RENNES CEDEX",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 110,
+        "Pays": "FRANCE",
+        "lat": 48.11198,
+        "lng": -1.67429
+    },
+    {
+        "City": "1190 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 111,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "47520 PASSAGE D'AGEN",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 112,
+        "Pays": "FRANCE",
+        "lat": 44.2014,
+        "lng": 0.6027
+    },
+    {
+        "City": "73290 LA MOTTE SERVOLEX",
+        "Club": null,
+        "Country": "FR",
+        "ID": 113,
+        "Pays": "FRANCE",
+        "lat": 45.5942,
+        "lng": 5.8758
+    },
+    {
+        "City": "95520 OSMY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 114,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "78500 SARTROUVILLE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 115,
+        "Pays": "FRANCE",
+        "lat": 48.9352625,
+        "lng": 2.1616803
+    },
+    {
+        "City": "83110 SARNEY SUR MER",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 116,
+        "Pays": "FRANCE",
+        "lat": 47.70555,
+        "lng": 1.50621
+    },
+    {
+        "City": "750150 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 117,
+        "Pays": "FRANCE",
+        "lat": 48.8535283,
+        "lng": 2.2899495
+    },
+    {
+        "City": "4630 BOCHUM 1",
+        "Club": "GERMANY",
+        "Country": "DE",
+        "ID": 118,
+        "Pays": "R.F.A",
+        "lat": 51.4814331,
+        "lng": 7.1856603
+    },
+    {
+        "City": "91700 VILLERS SUR ORGE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 119,
+        "Pays": "FRANCE",
+        "lat": 48.7,
+        "lng": 2.4
+    },
+    {
+        "City": "93250 VILLEMOMBLE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 120,
+        "Pays": "FRANCE",
+        "lat": 48.8833,
+        "lng": 2.5
+    },
+    {
+        "City": "33000 BORDEAUX",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 121,
+        "Pays": "FRANCE",
+        "lat": 44.8505975,
+        "lng": -0.5727905
+    },
+    {
+        "City": "33550 TABERNAC",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 122,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "7501 ORCQ",
+        "Club": null,
+        "Country": "BE",
+        "ID": 123,
+        "Pays": "BELGIQUE",
+        "lat": 50.6038108,
+        "lng": 3.3485748
+    },
+    {
+        "City": "4530 HERMALLE SUR ARGENTEAU",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 124,
+        "Pays": "BELGIQUE",
+        "lat": 50.70211,
+        "lng": 5.68448
+    },
+    {
+        "City": "5700 SAMBREVILLE",
+        "Club": "CAROLO",
+        "Country": "BE",
+        "ID": 125,
+        "Pays": "BELGIQUE",
+        "lat": 50.468134,
+        "lng": 4.6168843
+    },
+    {
+        "City": "80000 AMIENS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 126,
+        "Pays": "FRANCE",
+        "lat": 49.9,
+        "lng": 2.3
+    },
+    {
+        "City": "78640 NEAUPHILE LE CAHTEAU",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 127,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "1180 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 128,
+        "Pays": "BELGIQUE",
+        "lat": 50.8,
+        "lng": 4.3167
+    },
+    {
+        "City": "6522 SENEFFE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 129,
+        "Pays": "BELGIQUE",
+        "lat": 50.5662985,
+        "lng": 4.3238672
+    },
+    {
+        "City": "91120 PALAISEAU",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 130,
+        "Pays": "FRANCE",
+        "lat": 48.7153853,
+        "lng": 2.2484129
+    },
+    {
+        "City": "14000 CAEN",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 131,
+        "Pays": "FRANCE",
+        "lat": 49.1742428,
+        "lng": -0.3807353
+    },
+    {
+        "City": "2460 LA FERTE MILLON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 132,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "92700 COLOMBES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 133,
+        "Pays": "FRANCE",
+        "lat": 48.9241793,
+        "lng": 2.252593
+    },
+    {
+        "City": "60370 HERMES",
+        "Club": null,
+        "Country": "FR",
+        "ID": 134,
+        "Pays": "FRANCE",
+        "lat": 49.3536108,
+        "lng": 2.2578739
+    },
+    {
+        "City": "28100 DREUX",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 135,
+        "Pays": "FRANCE",
+        "lat": 48.7376479,
+        "lng": 1.3611637
+    },
+    {
+        "City": "69003 LYON",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 136,
+        "Pays": "FRANCE",
+        "lat": 45.757077,
+        "lng": 4.8596925
+    },
+    {
+        "City": "59269 PROUILLE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 137,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "59500 DOUAI",
+        "Club": "GRATUIT",
+        "Country": "FR",
+        "ID": 138,
+        "Pays": "FRANCE",
+        "lat": 50.3879326,
+        "lng": 3.0825967
+    },
+    {
+        "City": "1160 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 139,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "31620 FRONTON",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 140,
+        "Pays": "FRANCE",
+        "lat": 43.7816,
+        "lng": 1.4052
+    },
+    {
+        "City": "6071 CHATELET",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 141,
+        "Pays": "BELGIQUE",
+        "lat": 50.4066191,
+        "lng": 4.526779
+    },
+    {
+        "City": "12850 OMET LE CHATEAU",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 142,
+        "Pays": "FRANCE",
+        "lat": 45.886,
+        "lng": -1.19244
+    },
+    {
+        "City": "92360 MEUDON LA FORET",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 143,
+        "Pays": "FRANCE",
+        "lat": 48.786698,
+        "lng": 2.2284135
+    },
+    {
+        "City": "7800 ATH",
+        "Club": null,
+        "Country": "BE",
+        "ID": 144,
+        "Pays": "BELGIQUE",
+        "lat": 50.6175852,
+        "lng": 3.7793749
+    },
+    {
+        "City": "34100 MONTPELLIER",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 145,
+        "Pays": "FRANCE",
+        "lat": 43.61092,
+        "lng": 3.87723
+    },
+    {
+        "City": "1850 GRIMBERGER",
+        "Club": null,
+        "Country": "BE",
+        "ID": 146,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "94400 VITRY SUR SEINE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 147,
+        "Pays": "FRANCE",
+        "lat": 48.7879633,
+        "lng": 2.3919037
+    },
+    {
+        "City": "91220 BRETIGNY SUR ORGE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 148,
+        "Pays": "FRANCE",
+        "lat": 48.6163399,
+        "lng": 2.306285
+    },
+    {
+        "City": "69004 LYON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 149,
+        "Pays": "FRANCE",
+        "lat": 45.7751,
+        "lng": 4.8271
+    },
+    {
+        "City": "75011 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 150,
+        "Pays": "FRANCE",
+        "lat": 48.8686237,
+        "lng": 2.373181
+    },
+    {
+        "City": "73100 AIX LES BAINS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 151,
+        "Pays": "FRANCE",
+        "lat": 45.6700736,
+        "lng": 5.90952
+    },
+    {
+        "City": "17300 ROCHEFORT",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 152,
+        "Pays": "FRANCE",
+        "lat": 45.9333,
+        "lng": -0.9833
+    },
+    {
+        "City": "63500 ISSOIRE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 153,
+        "Pays": "FRANCE",
+        "lat": 45.5625,
+        "lng": 3.173
+    },
+    {
+        "City": "92200 NEUILLY SUR SEINE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 154,
+        "Pays": "FRANCE",
+        "lat": 48.8846,
+        "lng": 2.2697
+    },
+    {
+        "City": "57160 MOULINS-LES-METZ",
+        "Club": null,
+        "Country": "FR",
+        "ID": 155,
+        "Pays": "FRANCE",
+        "lat": 49.1068,
+        "lng": 6.0824
+    },
+    {
+        "City": "7360 BOUSSU",
+        "Club": null,
+        "Country": "BE",
+        "ID": 156,
+        "Pays": "BELGIQUE",
+        "lat": 50.4337902,
+        "lng": 3.7912881
+    },
+    {
+        "City": "51700 DORMANS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 157,
+        "Pays": "FRANCE",
+        "lat": 49.0753595,
+        "lng": 3.6397668
+    },
+    {
+        "City": "51220 HERMENONVILLE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 158,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "6080 MONTIGNIES SUR SAMBRE",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 159,
+        "Pays": "BELGIQUE",
+        "lat": 50.4199947,
+        "lng": 4.4658586
+    },
+    {
+        "City": "94230 CACHAN",
+        "Club": null,
+        "Country": "FR",
+        "ID": 160,
+        "Pays": "FRANCE",
+        "lat": 48.7963,
+        "lng": 2.3366
+    },
+    {
+        "City": "1310 LA HULPE",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 161,
+        "Pays": "BELGIQUE",
+        "lat": 50.7488194,
+        "lng": 4.4886041
+    },
+    {
+        "City": "14000 CAEN",
+        "Club": null,
+        "Country": "FR",
+        "ID": 162,
+        "Pays": "FRANCE",
+        "lat": 49.1815386,
+        "lng": -0.3849122
+    },
+    {
+        "City": "92190 MEUDON",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 163,
+        "Pays": "FRANCE",
+        "lat": 48.8102684,
+        "lng": 2.2397046
+    },
+    {
+        "City": "63340 SAINT GERMAIN LEMBRON",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 164,
+        "Pays": "FRANCE",
+        "lat": 45.479,
+        "lng": 3.1317
+    },
+    {
+        "City": "38760 VARCES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 165,
+        "Pays": "FRANCE",
+        "lat": 45.1067445,
+        "lng": 5.6728221
+    },
+    {
+        "City": "1180 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 166,
+        "Pays": "BELGIQUE",
+        "lat": 50.8,
+        "lng": 4.3167
+    },
+    {
+        "City": "4530 HERMALLE SUR ARGENTEAU",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 167,
+        "Pays": "BELGIQUE",
+        "lat": 50.70211,
+        "lng": 5.68448
+    },
+    {
+        "City": "74012 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 168,
+        "Pays": "FRANCE",
+        "lat": 48.8476917,
+        "lng": 2.3965443
+    },
+    {
+        "City": "6030 MARCHIENNE AU PONT",
+        "Club": null,
+        "Country": "BE",
+        "ID": 169,
+        "Pays": "BELGIQUE",
+        "lat": 50.4167,
+        "lng": 4.4333
+    },
+    {
+        "City": "1080 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 170,
+        "Pays": "BELGIQUE",
+        "lat": 50.848545,
+        "lng": 4.3102269
+    },
+    {
+        "City": "1160 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 171,
+        "Pays": "BELGIQUE",
+        "lat": 50.8243919,
+        "lng": 4.4047501
+    },
+    {
+        "City": "54000 NANCY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 172,
+        "Pays": "FRANCE",
+        "lat": 48.6702301,
+        "lng": 6.167576
+    },
+    {
+        "City": "68120 PFASTATT",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 173,
+        "Pays": "FRANCE",
+        "lat": 47.7693014,
+        "lng": 7.2979798
+    },
+    {
+        "City": "5620 SAINT FERARD",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 174,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "5500 DINANT",
+        "Club": null,
+        "Country": "BE",
+        "ID": 175,
+        "Pays": "BELGIQUE",
+        "lat": 50.2306,
+        "lng": 4.9139
+    },
+    {
+        "City": "93110 ROSNY SUR VOIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 176,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "4100 SERAING",
+        "Club": "IDC",
+        "Country": "BE",
+        "ID": 177,
+        "Pays": "BELGIQUE",
+        "lat": 50.5945048,
+        "lng": 5.4926163
+    },
+    {
+        "City": "4090 BPS 12",
+        "Club": null,
+        "Country": null,
+        "ID": 178,
+        "Pays": "F.B.A.",
+        "lat": 32.24556,
+        "lng": 111.69472
+    },
+    {
+        "City": "69003 LYON",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 179,
+        "Pays": "FRANCE",
+        "lat": 45.7588406,
+        "lng": 4.869474
+    },
+    {
+        "City": "4880 SPA",
+        "Club": null,
+        "Country": "BE",
+        "ID": 180,
+        "Pays": "BELGIQUE",
+        "lat": 50.7,
+        "lng": 5.85
+    },
+    {
+        "City": "75019 PARIS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 181,
+        "Pays": "FRANCE",
+        "lat": 48.8802858,
+        "lng": 2.3945974
+    },
+    {
+        "City": "13009 MARSEILLE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 182,
+        "Pays": "FRANCE",
+        "lat": 43.2639847,
+        "lng": 5.4056078
+    },
+    {
+        "City": "70200 LURE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 183,
+        "Pays": "FRANCE",
+        "lat": 47.695,
+        "lng": 6.4229
+    },
+    {
+        "City": "78130 MAUREPOS",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 184,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "4510 SAIVE",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 185,
+        "Pays": "BELGIQUE",
+        "lat": 50.65316,
+        "lng": 5.68517
+    },
+    {
+        "City": "4460 FLONS",
+        "Club": null,
+        "Country": "BE",
+        "ID": 186,
+        "Pays": "BELGIQUE",
+        "lat": 50.75,
+        "lng": 4.5
+    },
+    {
+        "City": "77670 ST NAMMES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 187,
+        "Pays": "FRANCE",
+        "lat": 46.0,
+        "lng": 2.0
+    },
+    {
+        "City": "1080 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 188,
+        "Pays": "BELGIQUE",
+        "lat": 50.8711805,
+        "lng": 4.3119977
+    },
+    {
+        "City": "75001 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 189,
+        "Pays": "FRANCE",
+        "lat": 48.875500099999996,
+        "lng": 2.3237374
+    },
+    {
+        "City": "60300 SEMLIS / AUMONT EN MALATTE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 190,
+        "Pays": "FRANCE",
+        "lat": null,
+        "lng": null
+    },
+    {
+        "City": "75018 PARIS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 191,
+        "Pays": "FRANCE",
+        "lat": 48.8898128,
+        "lng": 2.3287697
+    },
+    {
+        "City": "1180 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 192,
+        "Pays": "BELGIQUE",
+        "lat": 50.8,
+        "lng": 4.3167
+    },
+    {
+        "City": "26000 VALENCE",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 193,
+        "Pays": "FRANCE",
+        "lat": 44.9333,
+        "lng": 4.9
+    },
+    {
+        "City": "91570 BIEVRES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 194,
+        "Pays": "FRANCE",
+        "lat": 48.7601054,
+        "lng": 2.216416
+    },
+    {
+        "City": "59460 COMINES",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 195,
+        "Pays": "FRANCE",
+        "lat": 50.7580645,
+        "lng": 3.0225374
+    },
+    {
+        "City": "1727 LUXEMBOURG VILLE",
+        "Club": null,
+        "Country": "LU",
+        "ID": 196,
+        "Pays": "LUXEMBOURG",
+        "lat": 43.9811,
+        "lng": 10.47412
+    },
+    {
+        "City": "06590 THEOULE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 197,
+        "Pays": "FRANCE",
+        "lat": 43.5078,
+        "lng": 6.9408
+    },
+    {
+        "City": "4700 AGEN",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 198,
+        "Pays": "FRANCE",
+        "lat": 44.2,
+        "lng": 0.63333
+    },
+    {
+        "City": "1040 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 199,
+        "Pays": "BELGIQUE",
+        "lat": 50.8365275,
+        "lng": 4.3760169
+    },
+    {
+        "City": "1320 GENVAL",
+        "Club": null,
+        "Country": "BE",
+        "ID": 200,
+        "Pays": "BELGIQUE",
+        "lat": 50.775,
+        "lng": 4.7625
+    },
+    {
+        "City": "1190 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 201,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "95210 SAINT GRATIEN",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 202,
+        "Pays": "FRANCE",
+        "lat": 48.9622047,
+        "lng": 2.2797587
+    },
+    {
+        "City": "4100 SERAING",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 203,
+        "Pays": "BELGIQUE",
+        "lat": 50.5792812,
+        "lng": 5.493293
+    },
+    {
+        "City": "92103 BOULOGNE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 204,
+        "Pays": "FRANCE",
+        "lat": 48.83333,
+        "lng": 2.25
+    },
+    {
+        "City": "78500 SARTROUVILLE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 205,
+        "Pays": "FRANCE",
+        "lat": 48.9482,
+        "lng": 2.1917
+    },
+    {
+        "City": "94200 IVRY SUR SEINE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 206,
+        "Pays": "FRANCE",
+        "lat": 48.8157,
+        "lng": 2.3849
+    },
+    {
+        "City": "1361 CLABECQ",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 207,
+        "Pays": "BELGIQUE",
+        "lat": 50.6834459,
+        "lng": 4.2263606
+    },
+    {
+        "City": "4630 BOCHUM 1",
+        "Club": "GERMANY",
+        "Country": "DE",
+        "ID": 208,
+        "Pays": "R.F.A",
+        "lat": 51.5086982,
+        "lng": 7.1955898
+    },
+    {
+        "City": "1070 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 209,
+        "Pays": "BELGIQUE",
+        "lat": 50.8276833,
+        "lng": 4.2951403
+    },
+    {
+        "City": "1310 LA HULPE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 210,
+        "Pays": "BELGIQUE",
+        "lat": 50.7499016,
+        "lng": 4.4911946
+    },
+    {
+        "City": "1360 TUBIZE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 211,
+        "Pays": "BELGIQUE",
+        "lat": 50.6997462,
+        "lng": 4.1944111
+    },
+    {
+        "City": "4620 FLERON",
+        "Club": "IDCL",
+        "Country": "BE",
+        "ID": 212,
+        "Pays": "BELGIQUE",
+        "lat": 50.6167,
+        "lng": 5.6833
+    },
+    {
+        "City": "49520 BEL AIR DE COMBREE",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 213,
+        "Pays": "FRANCE",
+        "lat": 47.7097941,
+        "lng": -0.9836471
+    },
+    {
+        "City": "88400 GERARDMER",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 214,
+        "Pays": "FRANCE",
+        "lat": 48.0947,
+        "lng": 6.804
+    },
+    {
+        "City": "52200 LANGRES",
+        "Club": "BX",
+        "Country": "FR",
+        "ID": 215,
+        "Pays": "FRANCE",
+        "lat": 47.8748609,
+        "lng": 5.3364864
+    },
+    {
+        "City": "95870 BEZONS",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 216,
+        "Pays": "FRANCE",
+        "lat": 48.9330677,
+        "lng": 2.2156364
+    },
+    {
+        "City": "1070 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 217,
+        "Pays": "BELGIQUE",
+        "lat": 50.8386465,
+        "lng": 4.3110085
+    },
+    {
+        "City": "7330 SAINT GHISLAIN",
+        "Club": null,
+        "Country": "BE",
+        "ID": 218,
+        "Pays": "BELGIQUE",
+        "lat": 50.4482,
+        "lng": 3.8189
+    },
+    {
+        "City": "1410 WATERLOO",
+        "Club": "IDC",
+        "Country": "BE",
+        "ID": 219,
+        "Pays": "BELGIQUE",
+        "lat": 50.7288074,
+        "lng": 4.387666
+    },
+    {
+        "City": "6100 MONT SUR MARCHIENNE",
+        "Club": "CARO",
+        "Country": "BE",
+        "ID": 220,
+        "Pays": "BELGIQUE",
+        "lat": 50.38997,
+        "lng": 4.40732
+    },
+    {
+        "City": "6548 FAMILLEUREUX",
+        "Club": null,
+        "Country": "BE",
+        "ID": 221,
+        "Pays": "BELGIQUE",
+        "lat": 50.52389,
+        "lng": 4.21033
+    },
+    {
+        "City": "4870 THEUX",
+        "Club": null,
+        "Country": "BE",
+        "ID": 222,
+        "Pays": "BELGIQUE",
+        "lat": 50.5667,
+        "lng": 5.6833
+    },
+    {
+        "City": "5158 DAVE",
+        "Club": null,
+        "Country": "BE",
+        "ID": 223,
+        "Pays": "BELGIQUE",
+        "lat": 50.4148969,
+        "lng": 4.8893358
+    },
+    {
+        "City": "1150 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 224,
+        "Pays": "BELGIQUE",
+        "lat": 50.8333,
+        "lng": 4.4167
+    },
+    {
+        "City": "14100 BEUVILLERS LISIEUX",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 225,
+        "Pays": "FRANCE",
+        "lat": 49.1466,
+        "lng": 0.22925
+    },
+    {
+        "City": "93310 LE PRES SAINT GERVAIS",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 226,
+        "Pays": "FRANCE",
+        "lat": 48.8876074,
+        "lng": 2.3993521
+    },
+    {
+        "City": "78500 SARTROUVILLE",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 227,
+        "Pays": "FRANCE",
+        "lat": 48.9376908,
+        "lng": 2.1565644
+    },
+    {
+        "City": "49280 MAZIERES EN MAUGES",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 228,
+        "Pays": "FRANCE",
+        "lat": 47.046704,
+        "lng": -0.8136708
+    },
+    {
+        "City": "57110 YUTZ",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 229,
+        "Pays": "FRANCE",
+        "lat": 49.3541588,
+        "lng": 6.1823181
+    },
+    {
+        "City": "78000 VERSAILLES",
+        "Club": "BX/DCA",
+        "Country": "FR",
+        "ID": 230,
+        "Pays": "FRANCE",
+        "lat": 48.8,
+        "lng": 2.1333
+    },
+    {
+        "City": "1190 BRUXELLES",
+        "Club": "DAIC",
+        "Country": "BE",
+        "ID": 231,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "4630 BOCHUM 1",
+        "Club": "GERMANY",
+        "Country": "DE",
+        "ID": 232,
+        "Pays": "R.F.A",
+        "lat": 51.48165,
+        "lng": 7.21648
+    },
+    {
+        "City": "1160 BRUXELLES",
+        "Club": null,
+        "Country": "BE",
+        "ID": 233,
+        "Pays": "BELGIQUE",
+        "lat": 50.8466,
+        "lng": 4.3528
+    },
+    {
+        "City": "4920 EMBOURG",
+        "Club": null,
+        "Country": "BE",
+        "ID": 234,
+        "Pays": "BELGIQUE",
+        "lat": 50.4478,
+        "lng": 5.6793
+    },
+    {
+        "City": "86390 LATHUS SAINT REMY",
+        "Club": "DCA",
+        "Country": "FR",
+        "ID": 235,
+        "Pays": "FRANCE",
+        "lat": 46.2877105,
+        "lng": 0.9569746
+    }
+]
