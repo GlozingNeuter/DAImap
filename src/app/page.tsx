@@ -11,6 +11,8 @@ import 'leaflet/dist/leaflet.css';
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.webpack.css'; // Re-uses images from ~leaflet package
 import * as L from 'leaflet';
 import 'leaflet-defaulticon-compatibility';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
 import storeData from './store.json';
 import dainamicData from './dainamic1986.json';
@@ -27,14 +29,15 @@ function App() {
       url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       <LayersControl position="topright">
-
-/// Add Marker for Store
+        /// Add Marker for Store
         <LayersControl.Overlay checked name="Store selling DAI">
           <LayerGroup>
             {storeData.map((e) => {
               if (e.lat !==  null  && e.lng !== null) {
                 return (
-                  <Marker position={[e.lat, e.lng]} >
+                  /// TODO: add different icons
+                  <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/store-solid-red.svg', iconSize: [24, 50], iconAnchor: [12, 41]})}>
+
                     <Popup>
                       {e.club}
                     </Popup>
@@ -52,7 +55,7 @@ function App() {
   {dainamicData.map((e) => {
     if (e.lat !==  null  && e.lng !== null) {
       return (
-        <Marker position={[e.lat, e.lng]} >
+        <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/user-solid-blue.svg', iconSize: [20, 37], iconAnchor: [12, 41]})}>
           <Popup>
             {e.club}
           </Popup>
@@ -70,7 +73,7 @@ function App() {
   {daiclicData.map((e) => {
     if (e.lat !==  null  && e.lng !== null) {
       return (
-        <Marker position={[e.lat, e.lng]} >
+        <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/user-solid-green.svg', iconSize: [20, 37], iconAnchor: [12, 41]})}>
           <Popup>
             {e.club}
           </Popup>
@@ -88,7 +91,7 @@ function App() {
   {newdaiclicData.map((e) => {
     if (e.lat !==  null  && e.lng !== null) {
       return (
-        <Marker position={[e.lat, e.lng]} >
+        <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/user-solid.svg', iconSize: [20, 37], iconAnchor: [12, 41]})}>
           <Popup>
             {e.club}
           </Popup>
@@ -106,7 +109,7 @@ function App() {
   {clubData.map((e) => {
     if (e.lat !==  null  && e.lng !== null) {
       return (
-        <Marker position={[e.lat, e.lng]} >
+        <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/users-rectangle-solid-red.svg', iconSize: [30, 60], iconAnchor: [30, 41]})}>
           <Popup>
             {e.club}
           </Popup>
@@ -124,7 +127,7 @@ function App() {
   {newdainamicData.map((e) => {
     if (e.lat !==  null  && e.lng !== null) {
       return (
-        <Marker position={[e.lat, e.lng]} >
+        <Marker position={[e.lat, e.lng]} icon={new Icon({iconUrl: '/user-solid-green.svg', iconSize: [20, 37], iconAnchor: [12, 41]})}>
           <Popup>
             {e.club}
           </Popup>
@@ -140,7 +143,6 @@ function App() {
 
   </LayersControl>
 </MapContainer>
-
   );
 }
 export default App;
